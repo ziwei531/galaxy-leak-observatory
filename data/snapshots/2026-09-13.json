@@ -1,0 +1,759 @@
+{
+	"schemaVersion": 1,
+	"id": "2026-09-13",
+	"observedAt": "2026-09-13",
+	"title": "A quartet, a plateau and a disputed Edge",
+	"summary": "Four models instead of three. Two respected render sources disagree about the Ultra's camera. Two tipsters disagree about an Edge. The chip and charging stories finally get hard edges.",
+	"leadClaimId": "lineup-quartet",
+	"claims": [
+		{
+			"id": "regional-exynos",
+			"title": "An Exynos Ultra may be back on the table",
+			"category": "Performance",
+			"status": "disputed",
+			"confidence": "medium",
+			"sourceDate": "2026-09-02",
+			"firstObservedAt": "2026-09-06",
+			"summary": "Money Today reports development of an Exynos 2700 Galaxy S27 Ultra for some markets, alongside the Snapdragon model. Android Authority highlights the change against earlier Snapdragon-only expectations.",
+			"assessment": "Specific industry reporting, but a development order is not a retail launch. Regions, chip branding and sustained performance remain unconfirmed.",
+			"evidence": [
+				{
+					"sourceId": "mt-exynos",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "aa-exynos",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "ac-specs",
+					"relation": "context"
+				}
+			],
+			"related": [
+				"snapdragon-only"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "camera-bar",
+			"title": "A wider camera island, not isolated rings",
+			"category": "Design",
+			"status": "reported",
+			"confidence": "medium",
+			"sourceDate": "2026-08-25",
+			"firstObservedAt": "2026-09-06",
+			"summary": "SamMobile describes OnLeaks-based CAD renders with a horizontal rectangular rear camera bar. Android Authority separately describes Sonny Dickson images with a wide camera plateau.",
+			"assessment": "Two attributed image-report chains point in a similar direction, but neither establishes the final production design. We could not inspect the original Android Headlines article.",
+			"evidence": [
+				{
+					"sourceId": "sm-design",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "aa-render",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"three-cameras"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "three-cameras",
+			"title": "Three rear cameras in the newer render report",
+			"category": "Cameras",
+			"status": "disputed",
+			"confidence": "low",
+			"sourceDate": "2026-08-25",
+			"firstObservedAt": "2026-09-06",
+			"summary": "SamMobile describes three rear cameras in the reported CAD-based design. That conflicts with Android Central’s earlier description of a main camera plus three 50-megapixel lenses.",
+			"assessment": "Counting lenses in an alleged design is not a confirmed camera specification. Both accounts are retained; the newer article alone does not settle the conflict.",
+			"evidence": [
+				{
+					"sourceId": "sm-design",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "ac-specs",
+					"relation": "contradicts"
+				}
+			],
+			"related": [
+				"four-cameras"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "qi2-magnets",
+			"title": "Built-in magnetic charging is suggested",
+			"category": "Charging",
+			"status": "reported",
+			"confidence": "low",
+			"sourceDate": "2026-08-25",
+			"firstObservedAt": "2026-09-06",
+			"summary": "Android Authority interprets a circular rear cutout in the apparent renders as possible integrated Qi2 magnets. SamMobile says 25-watt Qi2 charging is likely.",
+			"assessment": "This is an interpretation of images and secondary reporting, not certification or a verified charging test. No charging speed is treated as established.",
+			"evidence": [
+				{
+					"sourceId": "aa-render",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "sm-design",
+					"relation": "supports"
+				}
+			],
+			"related": [],
+			"supersededBy": null
+		},
+		{
+			"id": "four-cameras",
+			"title": "The earlier account still described four lenses",
+			"category": "Cameras",
+			"status": "disputed",
+			"confidence": "low",
+			"sourceDate": "2026-08-01",
+			"firstObservedAt": "2026-09-06",
+			"summary": "Android Central’s report of Anthony’s tip lists a 200-megapixel main camera and three 50-megapixel lenses: ultrawide, 5× telephoto and another telephoto.",
+			"assessment": "Retained as a conflicting report, not silently deleted or declared false. The later three-camera account has not been officially resolved.",
+			"evidence": [
+				{
+					"sourceId": "ac-specs",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "sm-design",
+					"relation": "contradicts"
+				}
+			],
+			"related": [
+				"three-cameras"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "snapdragon-only",
+			"title": "Snapdragon-only expectations are now challenged",
+			"category": "Performance",
+			"status": "disputed",
+			"confidence": "low",
+			"sourceDate": "2026-08-01",
+			"firstObservedAt": "2026-09-06",
+			"summary": "Android Central’s earlier specification report names Snapdragon 8 Elite Gen 6 Pro for Galaxy without an Exynos variant. Android Authority explicitly says the newer Exynos report contradicts prior Snapdragon-only claims.",
+			"assessment": "The earlier specification list is not proof of worldwide exclusivity. Snapdragon and Exynos may coexist; naming and regional availability remain unsettled.",
+			"evidence": [
+				{
+					"sourceId": "ac-specs",
+					"relation": "context"
+				},
+				{
+					"sourceId": "aa-exynos",
+					"relation": "contradicts"
+				},
+				{
+					"sourceId": "mt-exynos",
+					"relation": "contradicts"
+				}
+			],
+			"related": [
+				"regional-exynos"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "privacy-display",
+			"title": "A 6.9-inch Privacy Display is tipped",
+			"category": "Display",
+			"status": "reported",
+			"confidence": "low",
+			"sourceDate": "2026-08-01",
+			"firstObservedAt": "2026-09-06",
+			"summary": "Android Central reports Anthony’s claim of a 6.9-inch QHD+ Privacy Display for the Ultra.",
+			"assessment": "One tipster chain. No panel document or production unit was examined, and this should not be read as a confirmed display specification.",
+			"evidence": [
+				{
+					"sourceId": "ac-specs",
+					"relation": "supports"
+				}
+			],
+			"related": [],
+			"supersededBy": null
+		},
+		{
+			"id": "battery-capacity",
+			"title": "5,534 mAh rated; advertised capacity still an estimate",
+			"category": "Battery",
+			"status": "reported",
+			"confidence": "medium",
+			"sourceDate": "2026-07-27",
+			"firstObservedAt": "2026-09-06",
+			"summary": "GalaxyClub says information it viewed gives the Ultra a 5,534 mAh rated battery. It estimates an advertised capacity around 5,700 mAh, possibly 5,800 mAh; Android Authority relays the 5,700 mAh estimate.",
+			"assessment": "Rated and typical capacity are different measures. The original article’s second “rated” label is internally inconsistent; we preserve its exact reported minimum and explicitly label the higher numbers as estimates.",
+			"evidence": [
+				{
+					"sourceId": "gc-battery",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "aa-battery",
+					"relation": "supports"
+				}
+			],
+			"related": [],
+			"supersededBy": null
+		},
+		{
+			"id": "silicon-carbon",
+			"title": "Silicon-carbon chemistry is plausible, not demonstrated",
+			"category": "Battery",
+			"status": "reported",
+			"confidence": "low",
+			"sourceDate": "2026-07-27",
+			"firstObservedAt": "2026-09-06",
+			"summary": "GalaxyClub infers silicon-carbon chemistry indirectly from the reported capacity increase. 9to5Google also relays a silicon-carbon rumor, noting that lineup coverage and capacities were unclear.",
+			"assessment": "A capacity estimate does not prove cell chemistry. This is a separate, lower-confidence claim from the rated-capacity report.",
+			"evidence": [
+				{
+					"sourceId": "gc-battery",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "9to5-cameras",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"battery-capacity"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "selfie-camera",
+			"title": "A 16-megapixel front camera is reported",
+			"category": "Cameras",
+			"status": "reported",
+			"confidence": "low",
+			"sourceDate": "2026-07-24",
+			"firstObservedAt": "2026-09-06",
+			"summary": "9to5Google’s roundup lists a 16-megapixel autofocus selfie camera for the Ultra. GalaxyClub also describes a new 16-megapixel front camera.",
+			"assessment": "These reports share GalaxyClub provenance. Sensor shape and stabilization are not established by this record.",
+			"evidence": [
+				{
+					"sourceId": "9to5-cameras",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "gc-battery",
+					"relation": "supports"
+				}
+			],
+			"related": [],
+			"supersededBy": null
+		},
+		{
+			"id": "lineup-quartet",
+			"title": "A new Pro turns the family's trio into a quartet",
+			"category": "Design",
+			"status": "reported",
+			"confidence": "medium",
+			"sourceDate": "2026-08-28",
+			"firstObservedAt": "2026-09-13",
+			"summary": "CAD render reports describe four Galaxy S27 models instead of three: the base S27, an S27+, a new S27 Pro and the S27 Ultra. GSMArena describes the Pro as a smaller Ultra without an S Pen, and Android Headlines reads the Plus CAD as proof the Plus survives. SamMobile's case images show the same quartet.",
+			"assessment": "Several outlets agree on a four-model reading, but they are reading render art rather than a Samsung document, and the segmentation is inferred from images. A rumored S27 Edge would make five. Nothing here is an announcement.",
+			"evidence": [
+				{
+					"sourceId": "gsm-s27-pro",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "ah-s27-plus",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "sm-s27-case",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"pro-telephoto",
+				"edge-rumor"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "base-s27-unchanged",
+			"title": "The base S27 barely leaves the S26 behind",
+			"category": "Design",
+			"status": "reported",
+			"confidence": "medium",
+			"sourceDate": "2026-08-26",
+			"firstObservedAt": "2026-09-13",
+			"summary": "CAD renders of the base S27 show an oval three-ring camera bump in the top-left corner, flat panels and a flat frame, with reported dimensions of 149.75 × 71.88 × 7.25 mm and a 6.3-inch display. 9to5Google notes the base model looks nothing like the redesigned Ultra.",
+			"assessment": "Three outlets describe the same Android Headlines render set, so this is shared provenance rather than three independent leaks. The dimensions are render-derived and the chipset is still described as open.",
+			"evidence": [
+				{
+					"sourceId": "9to5-s27-design",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "gsm-s27-renders",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "sm-uninspired",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"base-s27-battery"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "pro-telephoto",
+			"title": "The Pro inherits the Ultra's body but not its periscope",
+			"category": "Cameras",
+			"status": "reported",
+			"confidence": "low",
+			"sourceDate": "2026-08-28",
+			"firstObservedAt": "2026-09-13",
+			"summary": "GSMArena reports the S27 Pro at 154.06 × 73.77 × 7.95 mm with a roughly 6.6-inch display, sharing the Ultra's 200-megapixel main and 50-megapixel ultrawide but using a 12-megapixel 3x telephoto instead of a periscope, plus a rumored 5,200 mAh battery. SamMobile's case-render report says 5x optical zoom may stay exclusive to the Ultra.",
+			"assessment": "Two outlets point the same way and neither examined hardware. The discriminating claim is the telephoto, which is why this is filed under cameras; the size and battery figures remain renderer claims and the Ultra's own zoom arrangement is unresolved.",
+			"evidence": [
+				{
+					"sourceId": "gsm-s27-pro",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "sm-s27-case",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"lineup-quartet",
+				"three-cameras"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "ultra-plateau",
+			"title": "A camera plateau may replace the horizontal bar",
+			"category": "Design",
+			"status": "disputed",
+			"confidence": "medium",
+			"sourceDate": "2026-08-23",
+			"firstObservedAt": "2026-09-13",
+			"summary": "Notebookcheck reports that an Ice Universe design sketch, which the leaker later said was the S27 Ultra, shows a raised camera plateau closer to Apple's iPhone 17 Pro treatment, and that the earlier Pixel-like horizontal bar is out. SamMobile's 2 September case images show the Pro and Ultra with the same raised plateau.",
+			"assessment": "This directly conflicts with the OnLeaks CAD camera bar already in this archive. Two of the best-known render sources currently point at different rear designs, so the conflict is preserved rather than resolved. None of it is official evidence.",
+			"evidence": [
+				{
+					"sourceId": "nc-ice-final",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "sm-s27-case",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "sm-design",
+					"relation": "contradicts"
+				}
+			],
+			"related": [
+				"camera-bar",
+				"lineup-quartet"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "edge-rumor",
+			"title": "An S27 Edge is rumored, and the two accounts disagree",
+			"category": "Design",
+			"status": "disputed",
+			"confidence": "low",
+			"sourceDate": "2026-09-02",
+			"firstObservedAt": "2026-09-13",
+			"summary": "Two X accounts posted on 2 September that a Galaxy S27 Edge is in development for 2027. @kro_roe described a 5.8-inch display in a low-4 mm chassis with a 4,300 mAh battery; @SPYGO19726 replied hours later claiming a 6.8-inch body at 5.4 mm. SamMobile, Notebookcheck and tech-ish all report both readings.",
+			"assessment": "Neither account gave a source, and the two readings differ on the most basic property of the device. The archive keeps both opposed instead of choosing one. Notebookcheck calls this the only very early rumor in the family. An Edge would likely arrive later in 2027 than the main quartet.",
+			"evidence": [
+				{
+					"sourceId": "sm-s27-edge",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "nc-s27-edge",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "techish-s27-edge",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"lineup-quartet"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "charging-speeds",
+			"title": "Charging stays at 25 W and 45 W",
+			"category": "Charging",
+			"status": "reported",
+			"confidence": "medium",
+			"sourceDate": "2026-09-02",
+			"firstObservedAt": "2026-09-13",
+			"summary": "Android Authority reports that China's 3C registry lists 25 W wired charging for the base S27 and 45 W for the S27 Plus, relayed from tipster Abhishek Yadav on X. The report notes the base model would still trail the Galaxy S26 FE, and that the S27 Ultra and Pro may keep or improve on last year's 60 W.",
+			"assessment": "A regulatory listing is firmer evidence than a render, but this archive did not inspect the registry entry and the relay is a single chain. The 60 W figure for the Ultra and Pro is presented by the outlet as an expectation, not a listing.",
+			"evidence": [
+				{
+					"sourceId": "aa-s27-charging",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"magnets-everywhere"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "magnets-everywhere",
+			"title": "Magnetic arrays are read into all four CAD sets",
+			"category": "Charging",
+			"status": "reported",
+			"confidence": "low",
+			"sourceDate": "2026-08-25",
+			"firstObservedAt": "2026-09-13",
+			"summary": "Notebookcheck's reading of the Ice Universe CAD renders says all four S27 models include built-in magnetic arrays for magnetic chargers and accessories. Android Authority separately reports built-in magnets for MagSafe-style latching across the series, though it says wireless charging speed may not change.",
+			"assessment": "This extends the earlier Qi2 interpretation from a circular cutout on the Ultra to the whole family. CAD geometry is not certification, and the archive still holds no charging test or certification document.",
+			"evidence": [
+				{
+					"sourceId": "nc-s27-audio",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "aa-s27-charging",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"qi2-magnets"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "speaker-placement",
+			"title": "The speaker grille moves to the right on three models",
+			"category": "Design",
+			"status": "reported",
+			"confidence": "low",
+			"sourceDate": "2026-08-25",
+			"firstObservedAt": "2026-09-13",
+			"summary": "Notebookcheck reports that in the leaked CAD renders the base S27, the S27+ and the rumored S27 Pro move the bottom-firing speaker grille to the right of the USB-C port, while the Ultra keeps the left-side placement used on the S26 generation.",
+			"assessment": "One outlet's reading of CAD geometry, with an ergonomic rationale attached to it. Useful as a design detail, but it is not a measured audio specification and the archive has not seen a teardown or part listing.",
+			"evidence": [
+				{
+					"sourceId": "nc-s27-audio",
+					"relation": "supports"
+				}
+			],
+			"related": [],
+			"supersededBy": null
+		},
+		{
+			"id": "exynos-2700-die",
+			"title": "A leaked die shot fixes the Exynos 2700's outline",
+			"category": "Performance",
+			"status": "reported",
+			"confidence": "medium",
+			"sourceDate": "2026-09-03",
+			"firstObservedAt": "2026-09-13",
+			"summary": "SamMobile reports that a SemiAnalysis die shot and annotated floorplan show the Exynos 2700 with a 10-core CPU (two C2 Ultra cores at 4.24 GHz and 3.36 GHz, eight C2 Pro cores), an Xclipse 970 GPU with 16 compute units, a 24 MB system-level cache, four LPDDR6 PHYs and no integrated modem, built on Samsung Foundry's SF2P 2 nm process.",
+			"assessment": "An inspectable floorplan is firmer evidence than a text tip, but it is still a leak, and claims that the chip beats Snapdragon 8 Elite Gen 6 are not measured. The archive attaches this to the chipset question rather than to a shipping part.",
+			"evidence": [
+				{
+					"sourceId": "sm-exynos-die",
+					"relation": "supports"
+				}
+			],
+			"related": [
+				"regional-exynos",
+				"snapdragon-only"
+			],
+			"supersededBy": null
+		},
+		{
+			"id": "base-s27-battery",
+			"title": "The base S27 is tipped for a 4,900 mAh cell and a Sony sensor",
+			"category": "Battery",
+			"status": "reported",
+			"confidence": "low",
+			"sourceDate": "2026-08-26",
+			"firstObservedAt": "2026-09-13",
+			"summary": "GSMArena relays that the base S27 may use a new Sony main camera sensor and a silicon-carbon battery at 4,900 mAh, up from the S26's 4,300 mAh, while leaving the chipset open between Snapdragon 8 Elite Gen 6 and Exynos 2700. tech-ish separately relays a July report saying Samsung was undecided about silicon-carbon on the base model because of cost.",
+			"assessment": "One relayed claim set attached to a render report. The chemistry decision is described elsewhere as unresolved on cost, so the capacity figure should not be read as settled, and it is a base-model figure that says nothing about the Ultra's capacity.",
+			"evidence": [
+				{
+					"sourceId": "gsm-s27-renders",
+					"relation": "supports"
+				},
+				{
+					"sourceId": "techish-s27-edge",
+					"relation": "context"
+				}
+			],
+			"related": [
+				"silicon-carbon",
+				"base-s27-unchanged"
+			],
+			"supersededBy": null
+		}
+	],
+	"sources": [
+		{
+			"id": "sm-design",
+			"publisher": "SamMobile",
+			"title": "Galaxy S27 Ultra leak reveals a massive horizontal camera bar redesign",
+			"date": "2026-08-25",
+			"dateType": "updated",
+			"url": "https://www.sammobile.com/news/galaxy-s27-ultra-design-leaks-rectangular-camera-bar/",
+			"kind": "secondary",
+			"provenance": "OnLeaks CAD models via Android Headlines. Original Android Headlines page was blocked by a captcha; this readable secondary report was checked.",
+			"accessedAt": "2026-09-06"
+		},
+		{
+			"id": "9to5-cameras",
+			"publisher": "9to5Google",
+			"title": "Galaxy S27 series leaks with iPhone-like lineup, new cameras, silicon-carbon batteries",
+			"date": "2026-07-24",
+			"dateType": "published",
+			"url": "https://9to5google.com/2026/07/24/samsung-galaxy-s27-cameras-models-silicon-carbon-battery-leaks/",
+			"kind": "secondary",
+			"provenance": "WinFuture, GalaxyClub and tipster reports; repeated coverage is not independent confirmation.",
+			"accessedAt": "2026-09-06"
+		},
+		{
+			"id": "ac-specs",
+			"publisher": "Android Central",
+			"title": "Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul",
+			"date": "2026-08-01",
+			"dateType": "published",
+			"url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul",
+			"kind": "secondary",
+			"provenance": "Anthony (@TheGalox_) specification claims on X; the underlying post was not independently verified.",
+			"accessedAt": "2026-09-06"
+		},
+		{
+			"id": "aa-exynos",
+			"publisher": "Android Authority",
+			"title": "Galaxy S27 Ultra could go Exynos again, and this time, Snapdragon fans might get jealous",
+			"date": "2026-09-02",
+			"dateType": "published",
+			"url": "https://www.androidauthority.com/galaxy-s27-ultra-exynos-rumor-3706017/",
+			"kind": "secondary",
+			"provenance": "Money Today via Jukan; Money Today was also read directly. Internal benchmark claims are not reproduced here.",
+			"accessedAt": "2026-09-06"
+		},
+		{
+			"id": "aa-battery",
+			"publisher": "Android Authority",
+			"title": "Samsung’s Galaxy S27 series could be in for some major battery upgrades",
+			"date": "2026-07-27",
+			"dateType": "published",
+			"url": "https://www.androidauthority.com/samsung-galaxy-s27-battery-3691528/",
+			"kind": "secondary",
+			"provenance": "GalaxyClub reporting, not an independent second battery measurement.",
+			"accessedAt": "2026-09-06"
+		},
+		{
+			"id": "aa-render",
+			"publisher": "Android Authority",
+			"title": "If these Galaxy S27 Ultra renders are accurate, Samsung can’t stop Apple copycat claims",
+			"date": "2026-08-24",
+			"dateType": "published",
+			"url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-render-leak-3701790/",
+			"kind": "secondary",
+			"provenance": "Sonny Dickson images on X; this report interprets circular cutouts as possible magnets. Images are not reproduced.",
+			"accessedAt": "2026-09-06"
+		},
+		{
+			"id": "gc-battery",
+			"publisher": "GalaxyClub",
+			"title": "Samsung Galaxy S27 Pro en Ultra zetten belangrijke stap vooruit",
+			"date": "2026-07-27",
+			"dateType": "published",
+			"url": "https://www.galaxyclub.nl/samsung/galaxy-s27-pro/",
+			"kind": "original-report",
+			"provenance": "Dutch original reporting says it viewed battery information. It reports 5,534 mAh rated; 5,700–5,800 mAh is its estimate for the advertised capacity. The second use of “rated” in the original appears inconsistent with its surrounding explanation; retained here as an editorial caveat.",
+			"accessedAt": "2026-09-06"
+		},
+		{
+			"id": "mt-exynos",
+			"publisher": "Money Today",
+			"title": "Samsung pursuing Exynos for the flagship Ultra after five years (translated headline)",
+			"date": "2026-09-01",
+			"dateType": "published",
+			"url": "https://www.mt.co.kr/industry/2026/09/01/2026090114525927338",
+			"kind": "original-report",
+			"provenance": "Korean industry-sourced reporting says Exynos 2700 Ultra mainboards were ordered while Snapdragon development continues. No official Samsung confirmation was supplied.",
+			"accessedAt": "2026-09-06"
+		},
+		{
+			"id": "9to5-s27-design",
+			"publisher": "9to5Google",
+			"title": "Galaxy S27 leaks reveal a design that Samsung just won't kill",
+			"date": "2026-08-26",
+			"dateType": "published",
+			"url": "https://9to5google.com/2026/08/26/galaxy-s27-design-leaks/",
+			"kind": "secondary",
+			"provenance": "Reads the Android Headlines CAD render set for the base Galaxy S27. The archive could not open the original Android Headlines article for that render set and relies on this and other readable write-ups.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "gsm-s27-renders",
+			"publisher": "GSMArena",
+			"title": "Samsung Galaxy S27 CAD-based renders leak",
+			"date": "2026-08-26",
+			"dateType": "published",
+			"url": "https://www.gsmarena.com/samsung_galaxy_s27_cadbased_renders_leak-news-74351.php",
+			"kind": "secondary",
+			"provenance": "Summarises the CAD render set for the base model and relays the dimensions, screen size, possible Sony main sensor and 4,900 mAh battery figure.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "gsm-s27-pro",
+			"publisher": "GSMArena",
+			"title": "Samsung Galaxy S27 Pro renders leak, new design is in",
+			"date": "2026-08-28",
+			"dateType": "published",
+			"url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_renders_leak-news-74379.php",
+			"kind": "secondary",
+			"provenance": "Same CAD render source as the S27 and S27 Ultra articles. The measured dimensions, camera layout and 5,200 mAh figure are the renderer's claims, not Samsung's.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "sm-uninspired",
+			"publisher": "SamMobile",
+			"title": "Galaxy S27 leak reveals an uninspired design with minimal changes",
+			"date": "2026-08-26",
+			"dateType": "published",
+			"url": "https://www.sammobile.com/news/galaxy-s27-leak-reveals-an-uninspired-design-with-minimal-changes/",
+			"kind": "secondary",
+			"provenance": "A second write-up of the same Android Headlines CAD render set, not an independent leak.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "sm-s27-case",
+			"publisher": "SamMobile",
+			"title": "Galaxy S27 Ultra and Pro's dramatic camera redesign appears in leaked case render",
+			"date": "2026-09-02",
+			"dateType": "published",
+			"url": "https://www.sammobile.com/news/galaxy-s27-ultra-and-pro-dramatic-camera-redesign-leaked-case-render/",
+			"kind": "secondary",
+			"provenance": "Describes Ice Universe case images for four models. The publication timestamp was read from the article's article:published_time metadata rather than the site-wide “last updated” banner.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "nc-ice-final",
+			"publisher": "Notebookcheck",
+			"title": "Samsung Galaxy S27 Ultra: Surprising final camera design leaked",
+			"date": "2026-08-23",
+			"dateType": "published",
+			"url": "https://www.notebookcheck.net/Samsung-Galaxy-S27-Ultra-Surprising-final-camera-design-leaked.1376133.0.html",
+			"kind": "secondary",
+			"provenance": "Reports an Ice Universe design sketch posted on X and Weibo. The original post did not name a device, and the leaker only later said it was the S27 Ultra. The article carries two post-publication updates, including a second unnamed CAD variant.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "nc-s27-audio",
+			"publisher": "Notebookcheck",
+			"title": "Latest Samsung Galaxy S27 leak reveals a sneaky audio change",
+			"date": "2026-08-25",
+			"dateType": "published",
+			"url": "https://www.notebookcheck.net/Latest-Samsung-Galaxy-S27-leak-reveals-a-sneaky-audio-change.1377775.0.html",
+			"kind": "secondary",
+			"provenance": "Reads speaker placement and magnetic arrays out of Ice Universe CAD renders. The ergonomic explanation is the outlet's interpretation of geometry, not a specification.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "ah-s27-plus",
+			"publisher": "Android Headlines",
+			"title": "Galaxy S27 Plus Just Got Its First Look, and Samsung's Four-Model Lineup Is Confirmed",
+			"date": "2026-08-28",
+			"dateType": "published",
+			"url": "https://www.androidheadlines.com/2026/08/galaxy-s27-plus-just-got-its-first-look-and-samsungs-four-model-lineup-is-confirmed.html",
+			"kind": "secondary",
+			"provenance": "The page does not expose a publication date in its markup. The earliest Internet Archive capture of this URL is 2026-08-28, used here as a date bound rather than a stated publication date; the specific day may differ. The headline's “confirmed” refers to the leaker's CAD, not to Samsung.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "aa-s27-charging",
+			"publisher": "Android Authority",
+			"title": "New Galaxy S27 and S27 Plus leak sets us up for grave disappointment, this time for fast charging",
+			"date": "2026-09-02",
+			"dateType": "published",
+			"url": "https://www.androidauthority.com/galaxy-s27-plus-charging-speed-25w-3705976/",
+			"kind": "secondary",
+			"provenance": "Relays a China 3C registry listing through tipster Abhishek Yadav on X. This archive did not inspect the registry entry itself and treats the relay as a single chain.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "sm-exynos-die",
+			"publisher": "SamMobile",
+			"title": "Massive Exynos 2700 leak gives us our first look at Samsung's next-gen flagship chip",
+			"date": "2026-09-03",
+			"dateType": "published",
+			"url": "https://www.sammobile.com/news/galaxy-s27-exynos-2700-chip-design-leaks/",
+			"kind": "secondary",
+			"provenance": "Reproduces figures from a SemiAnalysis die shot and annotated floorplan. The publication timestamp was read from the article's article:published_time metadata.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "sm-s27-edge",
+			"publisher": "SamMobile",
+			"title": "Galaxy S27 Edge may be in the works for a 2027 comeback",
+			"date": "2026-09-02",
+			"dateType": "published",
+			"url": "https://www.sammobile.com/news/galaxy-s27-edge-may-be-in-the-works-for-a-2027-comeback/",
+			"kind": "secondary",
+			"provenance": "Reports two conflicting X posts without linking or naming the accounts. The underlying posts were not read directly by this archive.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "nc-s27-edge",
+			"publisher": "Notebookcheck",
+			"title": "Surprise! The Edge could be back on the menu with Galaxy S27 series, and even slimmer this time",
+			"date": "2026-09-03",
+			"dateType": "published",
+			"url": "https://www.notebookcheck.net/Surprise-The-Edge-could-be-back-on-the-menu-with-Galaxy-S27-series-and-even-slimmer-this-time.1386542.0.html",
+			"kind": "secondary",
+			"provenance": "Names @kro_roe and @SPYGO19726 and their 2 September exchange, and adds the outlet's own scepticism about the smaller reading. It calls the Edge the only device in the family with a single source.",
+			"accessedAt": "2026-09-13"
+		},
+		{
+			"id": "techish-s27-edge",
+			"publisher": "tech-ish",
+			"title": "Samsung Galaxy S27 Edge Rumored for 2027 with Silicon Carbon Battery",
+			"date": "2026-09-04",
+			"dateType": "published",
+			"url": "https://tech-ish.com/2026/09/04/samsung-galaxy-s27-edge-rumored-for-2027-with-silicon-carbon-battery/",
+			"kind": "secondary",
+			"provenance": "Aggregates the same 2 September X posts and adds a July 2026 report it attributes to the tipster Lanzuk. Repeated coverage of one post is not independent confirmation, and the Lanzuk report was read only through this relay. The site has since republished the article at a 13 September URL.",
+			"accessedAt": "2026-09-13"
+		}
+	],
+	"images": [
+		{
+			"id": "optical-study",
+			"path": "assets/optical-study.svg",
+			"title": "Optical study 01",
+			"creator": "S27 Ultra Observatory",
+			"license": "CC0-1.0",
+			"sourceUrl": null,
+			"kind": "original-illustration",
+			"alt": "Abstract concentric optical rings and a rust-colored alignment line on a dark field.",
+			"disclaimer": "Original illustration, not a leaked render or a prediction of the phone’s design."
+		}
+	]
+}

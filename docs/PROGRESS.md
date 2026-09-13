@@ -22,3 +22,12 @@
 - Generalized repository, site, package, local-server, live-verification and documentation naming to Galaxy Leak Observatory.
 - The static build, historical-snapshot protection, direct catalog/model behavior checks and `git diff --check` pass locally. Automated test and browser-test infrastructure was removed as disproportionate for this simple static project.
 - Renamed the repository to `galaxy-leak-observatory` and the local checkout to match. Pages workflow [34006959052](https://github.com/ziwei531/galaxy-leak-observatory/actions/runs/34006959052) passed build, deploy and exact live read-back for commit `a42fb4b520eb6fbb1d4a03cf7875c916f3ae498e`.
+
+## 2026-09-13 — weekly S27 Family review
+
+- Reviewed the whole S27 family rather than the Ultra alone, across Android Headlines, GSMArena, 9to5Google, SamMobile, Notebookcheck, Android Authority and tech-ish, covering reports dated 23 August to 4 September 2026.
+- Published `data/snapshots/2026-09-13.json` through `npm run review:week -- 2026-09-13 --publish --model=s27-ultra`: twenty reports and twenty-one sources, of which ten reports and thirteen sources are new. The 6 September snapshot is unchanged and its hash still matches the manifest.
+- Preserved two live contradictions instead of resolving them: the OnLeaks CAD camera bar against Ice Universe's raised plateau for the Ultra, and `@kro_roe`'s 5.8-inch S27 Edge against `@SPYGO19726`'s 6.8-inch counter-claim from the same day.
+- Added four named people to `data/leakers.json` — kro, SPYGO19726, Lanzuk and Abhishek Yadav — all at signal `low`, and extended the Ice Universe and OnLeaks entries with their August and September S27 material. No publisher was added as a leaker.
+- Recorded the access limits in the snapshot and research notes: the original Android Headlines render pages could not be read, the S27 Plus article exposes no publication date so the 28 August Internet Archive capture is used as a bound, and the Lanzuk silicon-carbon report was read only through a relay.
+- `npm run build`, `node scripts/check-history.js` and `git diff --check` pass. A direct check confirmed every catalog model loads its manifest, timeline and snapshot, every manifest hash matches its file, and every report's evidence and related identifiers resolve.

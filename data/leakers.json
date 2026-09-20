@@ -23,14 +23,15 @@
 			"handleUrl": "https://x.com/UniverseIce",
 			"signal": "high",
 			"focus": "Samsung specifications, cameras and displays",
-			"note": "Frequently attributed across the S22, S23 Ultra and S27 records for camera, display, battery and chipset claims. In August 2026 the account posted a camera-plateau sketch and case images for the S27 Pro and Ultra that conflict with the OnLeaks CAD camera bar; the archive preserves both and treats neither as confirmed. Individual claims still need separate verification.",
+			"note": "Frequently attributed across the S22, S23 Ultra and S27 records for camera, display, battery and chipset claims. In August 2026 the account posted a camera-plateau sketch and case images for the S27 Pro and Ultra that conflict with the OnLeaks CAD camera bar; the archive preserves both and treats neither as confirmed. On 14 September 2026 it rejected the reported 4x 1/1.9-inch telephoto as false and said the Ultra keeps its 5x 1/2.52-inch module, while leaving the previously asserted removal of the 3x shooter unaddressed. Individual claims still need separate verification.",
 			"references": [
 				{ "model": "S22", "title": "Early S22 family specifications", "url": "https://www.notebookcheck.net/Galaxy-S22-series-New-leak-reveals-display-camera-and-battery-specifications-of-Samsung-s-next-gen-premium-phones.555484.0.html" },
 				{ "model": "S23", "title": "S23 Ultra camera and display reports", "url": "https://www.notebookcheck.net/Samsung-Galaxy-S23-Ultra-Leaker-reports-camera-design-finalisation-and-subtle-ergonomics-change.667199.0.html" },
 				{ "model": "S27", "title": "S27 Ultra camera layout report", "url": "https://www.notebookcheck.net/Exclusive-Samsung-Galaxy-S27-Ultra-will-only-get-a-triple-camera-according-to-a-leak.1070197.0.html" },
 				{ "model": "S27", "title": "S27 Ultra camera-plateau sketch", "url": "https://www.notebookcheck.net/Samsung-Galaxy-S27-Ultra-Surprising-final-camera-design-leaked.1376133.0.html" },
 				{ "model": "S27", "title": "S27 family case images", "url": "https://www.sammobile.com/news/galaxy-s27-ultra-and-pro-dramatic-camera-redesign-leaked-case-render/" },
-				{ "model": "S27", "title": "S27 CAD speaker and magnet details", "url": "https://www.notebookcheck.net/Latest-Samsung-Galaxy-S27-leak-reveals-a-sneaky-audio-change.1377775.0.html" }
+				{ "model": "S27", "title": "S27 CAD speaker and magnet details", "url": "https://www.notebookcheck.net/Latest-Samsung-Galaxy-S27-leak-reveals-a-sneaky-audio-change.1377775.0.html" },
+				{ "model": "S27", "title": "S27 Ultra telephoto rebuttal", "url": "https://www.gsmarena.com/no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602.php" }
 			]
 		},
 		{
@@ -67,14 +68,16 @@
 			]
 		},
 		{
-			"name": "Robin Quandt",
+			"name": "Roland Quandt",
 			"handle": "@RQuandt",
 			"handleUrl": "https://x.com/RQuandt",
 			"signal": "medium",
 			"focus": "Retail and marketing material",
-			"note": "The S23 archive attributes apparent Snapdragon marketing and comparison material to him. Material provenance matters more than the outlet repeating it.",
+			"note": "The S23 archive attributes apparent Snapdragon marketing and comparison material to him. In September 2026 two outlets credited him with the claim that the Galaxy S27 Ultra keeps a 50-megapixel Sony 5x telephoto instead of moving to a 4x module, which lines up with Ice Universe's separate rebuttal of the 4x report. Only the secondary attributions were read here, so this record does not treat outlet coverage as his own verification. Material provenance matters more than the outlet repeating it.",
 			"references": [
-				{ "model": "S23", "title": "Custom Snapdragon 8 Gen 2 material", "url": "https://www.androidauthority.com/samsung-galaxy-s23-snapdragon-8-gen-2-for-galaxy-3238218/" }
+				{ "model": "S23", "title": "Custom Snapdragon 8 Gen 2 material", "url": "https://www.androidauthority.com/samsung-galaxy-s23-snapdragon-8-gen-2-for-galaxy-3238218/" },
+				{ "model": "S27", "title": "S27 Ultra 5x telephoto attribution", "url": "https://www.itechify.com/2026/09/16/galaxy-s27-ultra-camera-specs-5x-zoom/" },
+				{ "model": "S27", "title": "Second attribution of the same 5x claim", "url": "https://unboxdiaries.com/galaxy-s27-ultra-camera-leak/" }
 			]
 		},
 		{
@@ -137,11 +140,12 @@
 			"handleUrl": "https://x.com/kro_roe",
 			"signal": "low",
 			"focus": "Ultra-thin models and component allocation",
-			"note": "On 2 September 2026 posted Galaxy S27 Edge figures — a 5.8-inch display, a low-4 mm body and a 4,300 mAh battery — without stating a source, and a second X account contradicted the size the same day. A single uncorroborated post is not a reliability record, so the archive lists the account for traceability only.",
+			"note": "On 2 September 2026 posted Galaxy S27 Edge figures — a 5.8-inch display, a low-4 mm body and a 4,300 mAh battery — without stating a source, and a second X account contradicted the size the same day. A single uncorroborated post is not a reliability record, so the archive lists the account for traceability only. In late August 2026 the same account was credited with a Galaxy S27 Ultra prototype that dropped the S Pen slot for a 7,000 mAh cell, later reported as settling on a 5,700-6,000 mAh target; that claim was also read only through relays.",
 			"references": [
 				{ "model": "S27 Edge", "title": "S27 Edge size and battery claim", "url": "https://www.notebookcheck.net/Surprise-The-Edge-could-be-back-on-the-menu-with-Galaxy-S27-series-and-even-slimmer-this-time.1386542.0.html" },
 				{ "model": "S27 Edge", "title": "Conflicting Edge accounts", "url": "https://www.sammobile.com/news/galaxy-s27-edge-may-be-in-the-works-for-a-2027-comeback/" },
-				{ "model": "S27 Edge", "title": "Edge rumor context and silicon-carbon relay", "url": "https://tech-ish.com/2026/09/04/samsung-galaxy-s27-edge-rumored-for-2027-with-silicon-carbon-battery/" }
+				{ "model": "S27 Edge", "title": "Edge rumor context and silicon-carbon relay", "url": "https://tech-ish.com/2026/09/04/samsung-galaxy-s27-edge-rumored-for-2027-with-silicon-carbon-battery/" },
+				{ "model": "S27", "title": "7,000 mAh S Pen-less prototype relay", "url": "https://www.androidpolice.com/the-galaxy-s27-ultra-could-have-arrived-with-a-7000mah-battery/" }
 			]
 		},
 		{
@@ -174,6 +178,38 @@
 			"note": "Relayed the China 3C registry listing behind the reported 25 W and 45 W Galaxy S27 and S27 Plus charging speeds. The firmer evidence is the regulatory listing rather than the relay, and this archive did not inspect the registry entry itself.",
 			"references": [
 				{ "model": "S27", "title": "China 3C charging listing relay", "url": "https://www.androidauthority.com/galaxy-s27-plus-charging-speed-25w-3705976/" }
+			]
+		},
+		{
+			"name": "phonefuturist",
+			"handle": "@phonefuturist",
+			"signal": "low",
+			"focus": "Pre-production camera configurations",
+			"note": "On 31 August 2026 the account was credited with Samsung testing a shared 3x telephoto across the S27 lineup and a single 50-megapixel 1/1.9-inch 4x telephoto for the Ultra, with five Ultra prototypes built and a hardware decision expected around 9 September. Ice Universe later rejected the 4x part. The posts were not read directly and nothing was published with them, so the account is listed for traceability only.",
+			"references": [
+				{ "model": "S27", "title": "S27 Ultra 4x telephoto and shared telephoto test", "url": "https://www.sammyfans.com/2026/08/31/samsung-galaxy-s27-series-camera-details-leak-major-changes-coming-to-ultra/" },
+				{ "model": "S27", "title": "Dismissal of the 4x claim", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-5x-camera-leaks-3710729/" }
+			]
+		},
+		{
+			"name": "GalaxyFlash2025",
+			"handle": "@GalaxyFlash2025",
+			"signal": "low",
+			"focus": "Telephoto hardware claims",
+			"note": "In early September 2026 the account was reported to claim the Galaxy S27 Ultra would drop both the 3x and 5x cameras for a single 4x 1/1.9-inch sensor. Ice Universe dismissed that reading as false, and the archive has one appearance for the account, so it is unproven.",
+			"references": [
+				{ "model": "S27", "title": "4x telephoto claim and rebuttal", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-5x-camera-leaks-3710729/" }
+			]
+		},
+		{
+			"name": "WalleGalaxy",
+			"handle": "@WalleGalaxy",
+			"signal": "low",
+			"focus": "Camera software and image processing",
+			"note": "In mid-September 2026 the account claimed the Galaxy S27 Ultra gains updated Samsung Log and APV support for wider dynamic range and a reworked photo pipeline tuned for warmer, more natural colour. Android Authority relayed the claims while stating that the account is not an established source, and this archive agrees: one appearance, no evidence published, listed for traceability only.",
+			"references": [
+				{ "model": "S27", "title": "Camera processing claims", "url": "https://www.sammyfans.com/2026/09/15/galaxy-s27-ultra-camera-natural-colors-improved-log-video/" },
+				{ "model": "S27", "title": "Cautioned relay of the same claims", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-upgrades-leak-3712251/" }
 			]
 		}
 	]

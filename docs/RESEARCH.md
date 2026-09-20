@@ -28,6 +28,18 @@ Charging, magnetism and the chipset gained firmer edges: a China 3C listing for 
 
 Access limitations: the original Android Headlines render and CAD pages could not be read, so their claims are recorded through secondary write-ups and labeled as such. Android Headlines' S27 Plus article exposes no publication date; the earliest Internet Archive capture of 28 August is used as a date bound rather than a stated publication date. Lanzuk's July 2026 silicon-carbon report was read only through a relay. No S27 specification is marked confirmed.
 
+## Galaxy S27 Family review — 20 September 2026
+
+Twenty-four newly collected readable sources and their dates, canonical URLs, provenance and access dates are in `data/snapshots/2026-09-20.json`, which now holds thirty-four reports and forty-five sources.
+
+The display story split into tiers. ETNews reports M16 OLED with Color Filter-on-Encapsulation and Privacy Display for the Pro and Ultra, an M14 step for the base and Plus, and a 6.27 / 6.66 / 6.47 / 6.89-inch set of panel sizes. The same sourcing now narrows Privacy Display to two models, reversing a July account that gave it to the whole family, so both readings are kept; a mid-September round-up still repeats the all-models version. PhoneArena's round-up adds the opposite pressure on the base model — BOE panels under consideration, a possible M13 retention that would contradict the M14 step, and third-party display driver ICs — recorded as a live disagreement rather than a decision.
+
+Charging and battery moved onto firmer ground. China's 3C listings put the Pro and Ultra at 60 W (20 V/3 A), with battery filings reported at 5,087 mAh rated for the Pro and 5,534 mAh rated for the Ultra, which outlets convert to roughly 5,200 and 5,700 mAh advertised. The earlier July reading of 5,534 mAh for the Ultra is retained and now carries the certification coverage as supporting evidence alongside its original relay. A separate reading of the same filings puts the base and Plus cells at 4,300 and 4,900 mAh, which contradicts the archive's August 4,900 mAh base figure; both are preserved.
+
+The camera whiplash resolved toward continuity. The late-August 4x 1/1.9-inch telephoto proposal is recorded as its own report, and Ice Universe's 14 September rejection of it is recorded separately, with two further outlets attributing the retained 50-megapixel Sony 5x module to Roland Quandt. The Ultra's tipped video and colour rework, the reportedly rejected 7,000 mAh S Pen-less prototype, the snapdragon-tier and LPDDR5X/LPDDR6 splits, the January-February 2027 launch window and the expected price ladder each stand as distinct reports.
+
+Access limitations: the Chinese 3C registry entries were read only through outlet coverage, and the model-number mapping to the Pro and Ultra is those outlets' inference. The Ice Universe, Roland Quandt, phonefuturist, GalaxyFlash2025 and WalleGalaxy posts were read only through secondary attributions, so the leaker index records them without treating repetition as verification. Imaging Resource's camera write-up returned an unsolvable captcha and is excluded. Android Headlines pages remain unreadable. No S27 specification is marked confirmed.
+
 ## Integrity rule
 
 A retrospective collection date is not a claim that the archive observed a report before launch. `firstObservedAt` records when this archive collected the material; `sourceDate` preserves when the source published it. Existing snapshots remain immutable after publication.

@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-09-13",
+	"latest": "2026-09-20",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -15,6 +15,12 @@
 			"path": "data/snapshots/2026-09-13.json",
 			"title": "A quartet, a plateau and a disputed Edge",
 			"sha256": "06a26a4c02b616131b2628bffad1ff17fda3279f7b157b8cc68db364abf3971a"
+		},
+		{
+			"id": "2026-09-20",
+			"path": "data/snapshots/2026-09-20.json",
+			"title": "Certified cells, a tiered display and a settled telephoto",
+			"sha256": "78cef0cfbb3ba169fabb26fa2d0e23b015ed054095e2c597725f867ba5d0752c"
 		}
 	],
 	"checks": [
@@ -27,6 +33,11 @@
 			"date": "2026-09-13",
 			"outcome": "updated",
 			"notes": "Reviewed the S27 family including base, Plus, Pro, Ultra and the rumored Edge across Android Headlines, GSMArena, 9to5Google, SamMobile, Notebookcheck, Android Authority and tech-ish, 23 August to 4 September 2026. Added ten claims and thirteen sources covering the four-model lineup, the unchanged base design, the camera plateau conflict, the Edge contradiction, 25W/45W charging, magnetic arrays, the speaker move, the Exynos 2700 die shot and the base-model battery. Original Android Headlines render pages stayed unreadable; the Plus article exposes no publication date so the 28 August Internet Archive capture is used as a bound. Lanzuk's July silicon-carbon report was read only through a relay."
+		},
+		{
+			"date": "2026-09-20",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family across ETNews, GSMArena, Android Authority, 9to5Google, SamMobile, Notebookcheck, PhoneArena, Sammy Fans, Digital Trends, Android Police, Gadget Hacks, iTechify and Unbox Diaries, covering reports dated 24 August to 20 September 2026. Added fourteen claims and twenty-four sources covering the M16 and M14 display split, the narrower Privacy Display reading, the reported panel sizes, the 3C 60 W and rated-capacity listings, the 4x telephoto proposal against the retained 5x module, tipped video and colour processing, the rejected 7,000 mAh prototype, base-model display and memory cost measures, the chip and memory tier split, and the expected launch window and price ladder. The original 3C registry entries, the Ice Universe, Roland Quandt, phonefuturist, GalaxyFlash2025 and WalleGalaxy posts, and the Android Headlines pages were not read directly; Imaging Resource returned an unsolvable captcha and is excluded. No S27 specification is marked confirmed."
 		}
 	]
 }

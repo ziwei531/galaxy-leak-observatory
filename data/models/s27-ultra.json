@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-09-20",
+	"latest": "2026-09-27",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -21,6 +21,12 @@
 			"path": "data/snapshots/2026-09-20.json",
 			"title": "Certified cells, a tiered display and a settled telephoto",
 			"sha256": "78cef0cfbb3ba169fabb26fa2d0e23b015ed054095e2c597725f867ba5d0752c"
+		},
+		{
+			"id": "2026-09-27",
+			"path": "data/snapshots/2026-09-27.json",
+			"title": "Twelve gigabytes everywhere, a Trinity codename and a one-post privacy claim",
+			"sha256": "0de978cf1b8d6f899fbf66f08add9b0c382fbfc24a169a0fffcad3f2315e086e"
 		}
 	],
 	"checks": [
@@ -38,6 +44,11 @@
 			"date": "2026-09-20",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family across ETNews, GSMArena, Android Authority, 9to5Google, SamMobile, Notebookcheck, PhoneArena, Sammy Fans, Digital Trends, Android Police, Gadget Hacks, iTechify and Unbox Diaries, covering reports dated 24 August to 20 September 2026. Added fourteen claims and twenty-four sources covering the M16 and M14 display split, the narrower Privacy Display reading, the reported panel sizes, the 3C 60 W and rated-capacity listings, the 4x telephoto proposal against the retained 5x module, tipped video and colour processing, the rejected 7,000 mAh prototype, base-model display and memory cost measures, the chip and memory tier split, and the expected launch window and price ladder. The original 3C registry entries, the Ice Universe, Roland Quandt, phonefuturist, GalaxyFlash2025 and WalleGalaxy posts, and the Android Headlines pages were not read directly; Imaging Resource returned an unsolvable captcha and is excluded. No S27 specification is marked confirmed."
+		},
+		{
+			"date": "2026-09-27",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across SammyGuru, Android Authority, Sammy Fans, GSMArena, TelecomTalk, Gagadget, The Sunday Guardian, Tech Advisor and Gadget Hacks, covering reports dated 20 to 25 September 2026. Added four reports and thirteen sources: the family memory and storage ladder, the Miracle-to-Trinity codename change, the single-post split-screen Privacy Display claim, and the reported variable-aperture cancellation with the Pro and Ultra dimensions. Extended five earlier claims with new evidence, including the LPDDR6 and UFS 5.1 tier caveat and TelecomTalk's claim that the Pro replaces the Edge line. Access limits: Android Headlines stayed unreadable, Forbes returned a browser launch failure, and every named tipster post was read only through secondary coverage, so nothing is marked confirmed."
 		}
 	]
 }

@@ -23,7 +23,7 @@
 			"handleUrl": "https://x.com/UniverseIce",
 			"signal": "high",
 			"focus": "Samsung specifications, cameras and displays",
-			"note": "Frequently attributed across the S22, S23 Ultra and S27 records for camera, display, battery and chipset claims. In August 2026 the account posted a camera-plateau sketch and case images for the S27 Pro and Ultra that conflict with the OnLeaks CAD camera bar; the archive preserves both and treats neither as confirmed. On 14 September 2026 it rejected the reported 4x 1/1.9-inch telephoto as false and said the Ultra keeps its 5x 1/2.52-inch module, while leaving the previously asserted removal of the 3x shooter unaddressed. Individual claims still need separate verification.",
+			"note": "Frequently attributed across the S22, S23 Ultra and S27 records for camera, display, battery and chipset claims. In August 2026 the account posted a camera-plateau sketch and case images for the S27 Pro and Ultra that conflict with the OnLeaks CAD camera bar; the archive preserves both and treats neither as confirmed. On 14 September 2026 it rejected the reported 4x 1/1.9-inch telephoto as false and said the Ultra keeps its 5x 1/2.52-inch module, while leaving the previously asserted removal of the 3x shooter unaddressed. On 24 September 2026 the account posted that the Galaxy S27 Ultra will pick up Xiaomi's split-screen privacy behaviour, protecting one app in a two-app view while the other stays visible; every readable account of that claim in this archive traces back to this single post, so it is recorded as one report rather than as corroboration. Individual claims still need separate verification.",
 			"references": [
 				{ "model": "S22", "title": "Early S22 family specifications", "url": "https://www.notebookcheck.net/Galaxy-S22-series-New-leak-reveals-display-camera-and-battery-specifications-of-Samsung-s-next-gen-premium-phones.555484.0.html" },
 				{ "model": "S23", "title": "S23 Ultra camera and display reports", "url": "https://www.notebookcheck.net/Samsung-Galaxy-S23-Ultra-Leaker-reports-camera-design-finalisation-and-subtle-ergonomics-change.667199.0.html" },
@@ -31,7 +31,8 @@
 				{ "model": "S27", "title": "S27 Ultra camera-plateau sketch", "url": "https://www.notebookcheck.net/Samsung-Galaxy-S27-Ultra-Surprising-final-camera-design-leaked.1376133.0.html" },
 				{ "model": "S27", "title": "S27 family case images", "url": "https://www.sammobile.com/news/galaxy-s27-ultra-and-pro-dramatic-camera-redesign-leaked-case-render/" },
 				{ "model": "S27", "title": "S27 CAD speaker and magnet details", "url": "https://www.notebookcheck.net/Latest-Samsung-Galaxy-S27-leak-reveals-a-sneaky-audio-change.1377775.0.html" },
-				{ "model": "S27", "title": "S27 Ultra telephoto rebuttal", "url": "https://www.gsmarena.com/no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602.php" }
+				{ "model": "S27", "title": "S27 Ultra telephoto rebuttal", "url": "https://www.gsmarena.com/no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602.php" },
+				{ "model": "S27", "title": "S27 Ultra split-screen Privacy Display claim", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-split-screen-privacy-display-3715094/" }
 			]
 		},
 		{
@@ -162,12 +163,14 @@
 		},
 		{
 			"name": "Lanzuk",
-			"handle": "tipster account (handle not stated in the reporting)",
+			"handle": "Naver blog account, reported also as yeux1122",
 			"signal": "low",
-			"focus": "Battery chemistry and capacity planning",
-			"note": "A July 2026 report attributed to this account said silicon-carbon batteries would reach the Galaxy S27 Pro and Ultra at roughly 10% more capacity than their S26 equivalents, that the base model was undecided on cost and that the chemistry currently degrades faster than lithium-ion. The archive located the claim only through a secondary relay and has not read the original post.",
+			"focus": "Battery chemistry, memory and storage planning",
+			"note": "A July 2026 report attributed to this account said silicon-carbon batteries would reach the Galaxy S27 Pro and Ultra at roughly 10% more capacity than their S26 equivalents, that the base model was undecided on cost and that the chemistry currently degrades faster than lithium-ion. The archive located the claim only through a secondary relay and has not read the original post. On 22 September 2026 Android Authority attributed the whole family's memory and storage configurations to this account writing on the Korean blog Naver, citing Weibo posts and Korean industry sources, and Gagadget reproduced a 24 September post by Tarun Vats that credits Lanzuk and calls the account yeux1122. That alias comes from the relay rather than from a page this archive read at source, and no original post was read.",
 			"references": [
-				{ "model": "S27", "title": "Silicon-carbon planning relay", "url": "https://tech-ish.com/2026/09/04/samsung-galaxy-s27-edge-rumored-for-2027-with-silicon-carbon-battery/" }
+				{ "model": "S27", "title": "Silicon-carbon planning relay", "url": "https://tech-ish.com/2026/09/04/samsung-galaxy-s27-edge-rumored-for-2027-with-silicon-carbon-battery/" },
+				{ "model": "S27", "title": "S27 family memory and storage configurations", "url": "https://www.androidauthority.com/samsung-galaxy-s27-memory-storage-configurations-leak-3713926/" },
+				{ "model": "S27", "title": "Relay naming the account yeux1122", "url": "https://gagadget.com/en/727256-samsung-galaxy-s27-leak-12gb-ram-across-the-board-new-pro-tier-but-lpddr6-is-not-guaranteed/" }
 			]
 		},
 		{
@@ -206,10 +209,22 @@
 			"handle": "@WalleGalaxy",
 			"signal": "low",
 			"focus": "Camera software and image processing",
-			"note": "In mid-September 2026 the account claimed the Galaxy S27 Ultra gains updated Samsung Log and APV support for wider dynamic range and a reworked photo pipeline tuned for warmer, more natural colour. Android Authority relayed the claims while stating that the account is not an established source, and this archive agrees: one appearance, no evidence published, listed for traceability only.",
+			"note": "In mid-September 2026 the account claimed the Galaxy S27 Ultra gains updated Samsung Log and APV support for wider dynamic range and a reworked photo pipeline tuned for warmer, more natural colour. Android Authority relayed the claims while stating that the account is not an established source, and this archive agrees: one appearance, no evidence published, listed for traceability only. On 21 September 2026 SammyGuru attributed the family's ten memory and storage configurations to this account, including a possible 128GB tier outside most markets; that relay carries no evidence beyond the account's own claim.",
 			"references": [
 				{ "model": "S27", "title": "Camera processing claims", "url": "https://www.sammyfans.com/2026/09/15/galaxy-s27-ultra-camera-natural-colors-improved-log-video/" },
-				{ "model": "S27", "title": "Cautioned relay of the same claims", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-upgrades-leak-3712251/" }
+				{ "model": "S27", "title": "Cautioned relay of the same claims", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-upgrades-leak-3712251/" },
+				{ "model": "S27", "title": "S27 family storage configurations", "url": "https://sammyguru.com/samsung-galaxy-s27-series-and-storage-configuration-leak/" }
+			]
+		},
+		{
+			"name": "Tarun Vats",
+			"handle": "@tarunvats33",
+			"handleUrl": "https://x.com/tarunvats33",
+			"signal": "low",
+			"focus": "Relaying Korean supply-chain memory and storage claims",
+			"note": "On 24 September 2026 posted the Galaxy S27 family's RAM and storage configurations and credited Lanzuk for them. The account relays rather than originates, so its posts add reach rather than independent confirmation, and this archive read the post only through Gagadget's reproduction. One appearance is not a reliability record.",
+			"references": [
+				{ "model": "S27", "title": "Relayed S27 RAM and storage configurations", "url": "https://gagadget.com/en/727256-samsung-galaxy-s27-leak-12gb-ram-across-the-board-new-pro-tier-but-lpddr6-is-not-guaranteed/" }
 			]
 		}
 	]

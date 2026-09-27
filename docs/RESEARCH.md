@@ -40,6 +40,20 @@ The camera whiplash resolved toward continuity. The late-August 4x 1/1.9-inch te
 
 Access limitations: the Chinese 3C registry entries were read only through outlet coverage, and the model-number mapping to the Pro and Ultra is those outlets' inference. The Ice Universe, Roland Quandt, phonefuturist, GalaxyFlash2025 and WalleGalaxy posts were read only through secondary attributions, so the leaker index records them without treating repetition as verification. Imaging Resource's camera write-up returned an unsolvable captcha and is excluded. Android Headlines pages remain unreadable. No S27 specification is marked confirmed.
 
+## Galaxy S27 Family review — 27 September 2026
+
+Thirteen newly collected readable sources and their dates, canonical URLs, provenance and access dates are in `data/snapshots/2026-09-27.json`, which now holds thirty-eight reports and fifty-eight sources.
+
+The memory and storage picture firmed up without gaining independence. SammyGuru, Android Authority, GSMArena, Sammy Fans, Gagadget and TelecomTalk all published the same ladder between 21 and 24 September — a 12 GB floor, 256 GB at entry, a 1 TB Pro tier held at 12 GB, and a single 16 GB with 1 TB option on the Ultra. Three of them trace to the same Korean supply-chain talk attributed to the Naver blogger Lanzuk, and one is a relay relaying him, so the archive keeps them as one report chain rather than six witnesses. The LPDDR6 and UFS 5.1 expectation for the Pro and Ultra arrived with a tier caveat in GSMArena's and Gagadget's reading: the new standards may reach only the higher storage tiers, and the base and Plus are not expected to move to them at all.
+
+Two smaller threads arrived with it. Sammy Fans reported, via SammyGuru's reading of trade data, that the programme's internal labels moved from NM1–NM4 under the New/Next Miracle codename to Trinity1–Trinity4. Tech Advisor's 25 September round-up reports the variable-aperture comeback abandoned on cost and repeats the Pro and Ultra dimensions from the August OnLeaks CAD set; that page also argues against itself, still listing a possible variable-aperture comeback in its own summary bullets, which is preserved as written rather than tidied away.
+
+Privacy Display produced the week's clearest single-source claim. Ice Universe posted on 24 September that the Ultra will adopt Xiaomi's split-screen privacy behaviour — one app protected in a two-app view, with the protected region following the divider as it moves — a day after the Xiaomi 18 Pro shipped the equivalent in China. Four outlets relayed it within two days, all pointing at the same post, so it is recorded as one report at low confidence and kept apart from the older question of which models get Privacy Display hardware at all.
+
+One contradiction was added rather than resolved: TelecomTalk's 23 September round-up says the new Pro replaces the Edge line, against the 2 September accounts that put an S27 Edge in development alongside it.
+
+Access limitations: Android Headlines remained unreadable, failing to render even through the browser tier, and Forbes' 21 September battery-filing piece returned a browser launch failure, so neither is cited. The Sunday Guardian's 24 September Exynos mainboard aggregation names no source, document or filing and is carried as context only. A Nokia Power User specification table credited to an X account printed only as "@Batman" was excluded as unverifiable rather than recorded. Every named tipster post, including Ice Universe's split-screen post and Lanzuk's configuration list, was read through secondary coverage. No S27 specification is marked confirmed.
+
 ## Integrity rule
 
 A retrospective collection date is not a claim that the archive observed a report before launch. `firstObservedAt` records when this archive collected the material; `sourceDate` preserves when the source published it. Existing snapshots remain immutable after publication.

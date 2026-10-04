@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-09-27",
+	"latest": "2026-10-04",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -27,6 +27,12 @@
 			"path": "data/snapshots/2026-09-27.json",
 			"title": "Twelve gigabytes everywhere, a Trinity codename and a one-post privacy claim",
 			"sha256": "0de978cf1b8d6f899fbf66f08add9b0c382fbfc24a169a0fffcad3f2315e086e"
+		},
+		{
+			"id": "2026-10-04",
+			"path": "data/snapshots/2026-10-04.json",
+			"title": "Exynos reaches wafer production, prices climb and the Ultra's 3x telephoto disappears",
+			"sha256": "c4fcebbe261a93f6ce0d2b9fdcb6592ce4884abdc548a5a3a9001ade444bf87c"
 		}
 	],
 	"checks": [
@@ -49,6 +55,11 @@
 			"date": "2026-09-27",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across SammyGuru, Android Authority, Sammy Fans, GSMArena, TelecomTalk, Gagadget, The Sunday Guardian, Tech Advisor and Gadget Hacks, covering reports dated 20 to 25 September 2026. Added four reports and thirteen sources: the family memory and storage ladder, the Miracle-to-Trinity codename change, the single-post split-screen Privacy Display claim, and the reported variable-aperture cancellation with the Pro and Ultra dimensions. Extended five earlier claims with new evidence, including the LPDDR6 and UFS 5.1 tier caveat and TelecomTalk's claim that the Pro replaces the Edge line. Access limits: Android Headlines stayed unreadable, Forbes returned a browser launch failure, and every named tipster post was read only through secondary coverage, so nothing is marked confirmed."
+		},
+		{
+			"date": "2026-10-04",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across The Elec, GSMArena, SamMobile, Android Headlines, Android Authority, 9to5Google, SammyGuru, Sammy Fans, Tom's Guide and Gagadget, covering reports dated 28 September to 3 October 2026. Added nine reports and twenty-three sources covering the Exynos 2700 wafer-production order, the reported Exynos Ultra prototype test, the 3x telephoto removal, the ISOCELL HP6 main sensor, the telephoto-position disagreement, the 218 g Ultra weight, the Korean price-hike rumor, the screen-protector listings and the component and panel production report; extended six earlier claims. Access limits: the Ice Universe, OnLeaks, kro and Lanzuk posts and Android Headlines' Exynos Ultra page were read only through secondary coverage, and The Elec was read in full on its English edition. No S27 specification is marked confirmed."
 		}
 	]
 }

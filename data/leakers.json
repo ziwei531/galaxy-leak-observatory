@@ -9,12 +9,13 @@
 			"handleUrl": "https://x.com/OnLeaks",
 			"signal": "high",
 			"focus": "CAD renders and industrial design",
-			"note": "Appears repeatedly behind early S22, S23, S25 and S27 design renders. The archive treats CAD as useful shape evidence, not a final production blueprint. His S27 and S27 Ultra CAD sets currently disagree with Ice Universe about the Ultra's rear camera treatment, so neither reading is treated as settled.",
+			"note": "Appears repeatedly behind early S22, S23, S25 and S27 design renders. The archive treats CAD as useful shape evidence, not a final production blueprint. His S27 and S27 Ultra CAD sets currently disagree with Ice Universe about the Ultra's rear camera treatment, so neither reading is treated as settled. On 28 September 2026 he posted an updated S27 Ultra rear render placing the telephoto at the top of the pill and the flash at the bottom, and noted that early case molds had missed the rear microphone cutout; Ice Universe and two other accounts dispute that order.",
 			"references": [
 				{ "model": "S22", "title": "S22 and S22+ renders", "url": "https://www.xda-developers.com/samsung-galaxy-s22-s22-plus-leak/" },
 				{ "model": "S23", "title": "Early S23 renders", "url": "https://www.xda-developers.com/galaxy-s23-leaked-renders/" },
 				{ "model": "S25", "title": "S25 design renders", "url": "https://9to5google.com/2024/09/12/samsung-galaxy-s25-design-leak/" },
-				{ "model": "S27", "title": "S27 and S27 Ultra CAD renders", "url": "https://www.gsmarena.com/samsung_galaxy_s27_cadbased_renders_leak-news-74351.php" }
+				{ "model": "S27", "title": "S27 and S27 Ultra CAD renders", "url": "https://www.gsmarena.com/samsung_galaxy_s27_cadbased_renders_leak-news-74351.php" },
+				{ "model": "S27", "title": "Updated S27 Ultra rear camera render", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-render-leak-3716236/" }
 			]
 		},
 		{
@@ -23,7 +24,7 @@
 			"handleUrl": "https://x.com/UniverseIce",
 			"signal": "high",
 			"focus": "Samsung specifications, cameras and displays",
-			"note": "Frequently attributed across the S22, S23 Ultra and S27 records for camera, display, battery and chipset claims. In August 2026 the account posted a camera-plateau sketch and case images for the S27 Pro and Ultra that conflict with the OnLeaks CAD camera bar; the archive preserves both and treats neither as confirmed. On 14 September 2026 it rejected the reported 4x 1/1.9-inch telephoto as false and said the Ultra keeps its 5x 1/2.52-inch module, while leaving the previously asserted removal of the 3x shooter unaddressed. On 24 September 2026 the account posted that the Galaxy S27 Ultra will pick up Xiaomi's split-screen privacy behaviour, protecting one app in a two-app view while the other stays visible; every readable account of that claim in this archive traces back to this single post, so it is recorded as one report rather than as corroboration. Individual claims still need separate verification.",
+			"note": "Frequently attributed across the S22, S23 Ultra and S27 records for camera, display, battery and chipset claims. In August 2026 the account posted a camera-plateau sketch and case images for the S27 Pro and Ultra that conflict with the OnLeaks CAD camera bar; the archive preserves both and treats neither as confirmed. On 14 September 2026 it rejected the reported 4x 1/1.9-inch telephoto as false and said the Ultra keeps its 5x 1/2.52-inch module, while leaving the previously asserted removal of the 3x shooter unaddressed. On 24 September 2026 the account posted that the Galaxy S27 Ultra will pick up Xiaomi's split-screen privacy behaviour, protecting one app in a two-app view while the other stays visible; every readable account of that claim in this archive traces back to this single post, so it is recorded as one report rather than as corroboration. Individual claims still need separate verification. On 29 September 2026 the account posted that the Ultra drops its 10MP 3x telephoto and keeps the 5x module alone, that the 200MP main camera moves to an ISOCELL HP6 and that colour and highlight handling change; the archive records those as one post relayed widely, not as independent confirmation. On 30 September it gave 218 g and 7.9 mm for the Ultra and shared a third-party screen-protector image, and it separately disputed OnLeaks' updated camera-layout render, saying the telephoto sits at the bottom.",
 			"references": [
 				{ "model": "S22", "title": "Early S22 family specifications", "url": "https://www.notebookcheck.net/Galaxy-S22-series-New-leak-reveals-display-camera-and-battery-specifications-of-Samsung-s-next-gen-premium-phones.555484.0.html" },
 				{ "model": "S23", "title": "S23 Ultra camera and display reports", "url": "https://www.notebookcheck.net/Samsung-Galaxy-S23-Ultra-Leaker-reports-camera-design-finalisation-and-subtle-ergonomics-change.667199.0.html" },
@@ -32,7 +33,10 @@
 				{ "model": "S27", "title": "S27 family case images", "url": "https://www.sammobile.com/news/galaxy-s27-ultra-and-pro-dramatic-camera-redesign-leaked-case-render/" },
 				{ "model": "S27", "title": "S27 CAD speaker and magnet details", "url": "https://www.notebookcheck.net/Latest-Samsung-Galaxy-S27-leak-reveals-a-sneaky-audio-change.1377775.0.html" },
 				{ "model": "S27", "title": "S27 Ultra telephoto rebuttal", "url": "https://www.gsmarena.com/no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602.php" },
-				{ "model": "S27", "title": "S27 Ultra split-screen Privacy Display claim", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-split-screen-privacy-display-3715094/" }
+				{ "model": "S27", "title": "S27 Ultra split-screen Privacy Display claim", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-split-screen-privacy-display-3715094/" },
+				{ "model": "S27", "title": "S27 Ultra 3x telephoto removal and ISOCELL HP6 main sensor", "url": "https://9to5google.com/2026/09/29/galaxy-s27-ultra-loses-3x-camera/" },
+				{ "model": "S27", "title": "S27 Ultra weight and thickness claim", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-thickness-weight-leak-3717357/" },
+				{ "model": "S27", "title": "S27 Ultra screen-protector image", "url": "https://www.sammyfans.com/2026/09/30/galaxy-s27-ultra-screen-protector-design-leak/" }
 			]
 		},
 		{
@@ -120,9 +124,10 @@
 			"handleUrl": "https://x.com/TheGalox_",
 			"signal": "low",
 			"focus": "Early specifications and rumor posts",
-			"note": "The S27 record attributes several early camera, display and chipset claims to this account, but the underlying posts were not independently preserved; it is listed for traceability, not endorsement.",
+			"note": "The S27 record attributes several early camera, display and chipset claims to this account, but the underlying posts were not independently preserved; it is listed for traceability, not endorsement. In October 2026 Android Headlines named the account among those placing the Ultra's telephoto at the bottom of the camera pill, against the OnLeaks render.",
 			"references": [
-				{ "model": "S27", "title": "S27 Ultra camera and display claims", "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul" }
+				{ "model": "S27", "title": "S27 Ultra camera and display claims", "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul" },
+				{ "model": "S27", "title": "Telephoto-position claim", "url": "https://www.androidheadlines.com/2026/10/tipsters-cant-agree-on-where-the-galaxy-s27-ultras-telephoto-camera-sits.html" }
 			]
 		},
 		{
@@ -141,12 +146,14 @@
 			"handleUrl": "https://x.com/kro_roe",
 			"signal": "low",
 			"focus": "Ultra-thin models and component allocation",
-			"note": "On 2 September 2026 posted Galaxy S27 Edge figures — a 5.8-inch display, a low-4 mm body and a 4,300 mAh battery — without stating a source, and a second X account contradicted the size the same day. A single uncorroborated post is not a reliability record, so the archive lists the account for traceability only. In late August 2026 the same account was credited with a Galaxy S27 Ultra prototype that dropped the S Pen slot for a 7,000 mAh cell, later reported as settling on a 5,700-6,000 mAh target; that claim was also read only through relays.",
+			"note": "On 2 September 2026 posted Galaxy S27 Edge figures — a 5.8-inch display, a low-4 mm body and a 4,300 mAh battery — without stating a source, and a second X account contradicted the size the same day. A single uncorroborated post is not a reliability record, so the archive lists the account for traceability only. In late August 2026 the same account was credited with a Galaxy S27 Ultra prototype that dropped the S Pen slot for a 7,000 mAh cell, later reported as settling on a 5,700-6,000 mAh target; that claim was also read only through relays. Between 29 September and 2 October 2026 the account was credited with an Exynos-powered Galaxy S27 Ultra prototype in testing, a claim that Snapdragon negotiations may have fallen through, a Geekbench 6 single-core score near 3,900 for the Exynos 2700, and the counter-reading that the Ultra's telephoto sits at the bottom of the camera pill; every one of those was read only through relays.",
 			"references": [
 				{ "model": "S27 Edge", "title": "S27 Edge size and battery claim", "url": "https://www.notebookcheck.net/Surprise-The-Edge-could-be-back-on-the-menu-with-Galaxy-S27-series-and-even-slimmer-this-time.1386542.0.html" },
 				{ "model": "S27 Edge", "title": "Conflicting Edge accounts", "url": "https://www.sammobile.com/news/galaxy-s27-edge-may-be-in-the-works-for-a-2027-comeback/" },
 				{ "model": "S27 Edge", "title": "Edge rumor context and silicon-carbon relay", "url": "https://tech-ish.com/2026/09/04/samsung-galaxy-s27-edge-rumored-for-2027-with-silicon-carbon-battery/" },
-				{ "model": "S27", "title": "7,000 mAh S Pen-less prototype relay", "url": "https://www.androidpolice.com/the-galaxy-s27-ultra-could-have-arrived-with-a-7000mah-battery/" }
+				{ "model": "S27", "title": "7,000 mAh S Pen-less prototype relay", "url": "https://www.androidpolice.com/the-galaxy-s27-ultra-could-have-arrived-with-a-7000mah-battery/" },
+				{ "model": "S27", "title": "Exynos-powered Ultra prototype test", "url": "https://sammyguru.com/samsung-keeps-exynos-2700-in-consideration-for-galaxy-s27-ultra/" },
+				{ "model": "S27", "title": "Telephoto position counter-claim", "url": "https://www.androidheadlines.com/2026/10/tipsters-cant-agree-on-where-the-galaxy-s27-ultras-telephoto-camera-sits.html" }
 			]
 		},
 		{
@@ -166,11 +173,12 @@
 			"handle": "Naver blog account, reported also as yeux1122",
 			"signal": "low",
 			"focus": "Battery chemistry, memory and storage planning",
-			"note": "A July 2026 report attributed to this account said silicon-carbon batteries would reach the Galaxy S27 Pro and Ultra at roughly 10% more capacity than their S26 equivalents, that the base model was undecided on cost and that the chemistry currently degrades faster than lithium-ion. The archive located the claim only through a secondary relay and has not read the original post. On 22 September 2026 Android Authority attributed the whole family's memory and storage configurations to this account writing on the Korean blog Naver, citing Weibo posts and Korean industry sources, and Gagadget reproduced a 24 September post by Tarun Vats that credits Lanzuk and calls the account yeux1122. That alias comes from the relay rather than from a page this archive read at source, and no original post was read.",
+			"note": "A July 2026 report attributed to this account said silicon-carbon batteries would reach the Galaxy S27 Pro and Ultra at roughly 10% more capacity than their S26 equivalents, that the base model was undecided on cost and that the chemistry currently degrades faster than lithium-ion. The archive located the claim only through a secondary relay and has not read the original post. On 22 September 2026 Android Authority attributed the whole family's memory and storage configurations to this account writing on the Korean blog Naver, citing Weibo posts and Korean industry sources, and Gagadget reproduced a 24 September post by Tarun Vats that credits Lanzuk and calls the account yeux1122. That alias comes from the relay rather than from a page this archive read at source, and no original post was read. On 30 September 2026 a Naver post attributed to this account, and reported under the alias yeux1122, said the whole S27 line rises in price with steeper steps between storage tiers; 9to5Google and Android Authority relayed it without reading an original post.",
 			"references": [
 				{ "model": "S27", "title": "Silicon-carbon planning relay", "url": "https://tech-ish.com/2026/09/04/samsung-galaxy-s27-edge-rumored-for-2027-with-silicon-carbon-battery/" },
 				{ "model": "S27", "title": "S27 family memory and storage configurations", "url": "https://www.androidauthority.com/samsung-galaxy-s27-memory-storage-configurations-leak-3713926/" },
-				{ "model": "S27", "title": "Relay naming the account yeux1122", "url": "https://gagadget.com/en/727256-samsung-galaxy-s27-leak-12gb-ram-across-the-board-new-pro-tier-but-lpddr6-is-not-guaranteed/" }
+				{ "model": "S27", "title": "Relay naming the account yeux1122", "url": "https://gagadget.com/en/727256-samsung-galaxy-s27-leak-12gb-ram-across-the-board-new-pro-tier-but-lpddr6-is-not-guaranteed/" },
+				{ "model": "S27", "title": "S27 series price increases", "url": "https://9to5google.com/2026/09/30/galaxy-s27-series-pricing-may-not-only-increase-but-cost-more-to-upgrade-storage/" }
 			]
 		},
 		{

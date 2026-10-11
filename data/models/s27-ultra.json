@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-10-04",
+	"latest": "2026-10-11",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -33,6 +33,12 @@
 			"path": "data/snapshots/2026-10-04.json",
 			"title": "Exynos reaches wafer production, prices climb and the Ultra's 3x telephoto disappears",
 			"sha256": "c4fcebbe261a93f6ce0d2b9fdcb6592ce4884abdc548a5a3a9001ade444bf87c"
+		},
+		{
+			"id": "2026-10-11",
+			"path": "data/snapshots/2026-10-11.json",
+			"title": "Light pink for the Ultra, a 55 W plateau and a Snapdragon-only Ultra reading",
+			"sha256": "60ff158920f48e3f4d768c38edcfd89b6b477ab9822c9c0d59db9e7b84a7b2c6"
 		}
 	],
 	"checks": [
@@ -60,6 +66,11 @@
 			"date": "2026-10-04",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across The Elec, GSMArena, SamMobile, Android Headlines, Android Authority, 9to5Google, SammyGuru, Sammy Fans, Tom's Guide and Gagadget, covering reports dated 28 September to 3 October 2026. Added nine reports and twenty-three sources covering the Exynos 2700 wafer-production order, the reported Exynos Ultra prototype test, the 3x telephoto removal, the ISOCELL HP6 main sensor, the telephoto-position disagreement, the 218 g Ultra weight, the Korean price-hike rumor, the screen-protector listings and the component and panel production report; extended six earlier claims. Access limits: the Ice Universe, OnLeaks, kro and Lanzuk posts and Android Headlines' Exynos Ultra page were read only through secondary coverage, and The Elec was read in full on its English edition. No S27 specification is marked confirmed."
+		},
+		{
+			"date": "2026-10-11",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across 9to5Google, Android Authority, Sammy Fans, SamMobile, Trusted Reviews, Tech Advisor, SammyGuru, Nokia Power User, Samsung Magazine and Geeky Gadgets, covering reports dated 5 to 9 October 2026. Added three reports and fourteen sources: the Ultra's launch colours with a later special Violet, the reported 55-56 W sustained charging curve behind the same 60 W ceiling, and the 9 October allocation report saying the Ultra stays Snapdragon-only worldwide. Extended seven earlier claims, including the October price and display leak, the M14+ refinement, the Exynos allocation reversal and the Privacy Display tier tie. Access limits: every named tipster post was read only through secondary coverage, and Android Headlines pages returned as browser failures, so its pricing, chipset and vapour-chamber pieces are not cited. No S27 specification is marked confirmed."
 		}
 	]
 }

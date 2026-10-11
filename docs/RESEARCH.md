@@ -66,6 +66,20 @@ Two smaller threads arrived. Ice Universe put the Ultra at 218 g and 7.9 mm, fou
 
 Access limitations: The Elec was read in full on its English edition, but every named tipster post — Ice Universe's camera, weight and screen-protector material, OnLeaks' render, kro's Exynos and telephoto claims and Lanzuk's price post — was read only through secondary coverage, and the photo-heavy Android Headlines pages came back as chrome on some fetches, so their summaries and body text carry the claims. No S27 specification is marked confirmed.
 
+## Galaxy S27 Family review — 11 October 2026
+
+Fourteen newly collected readable sources and their dates, canonical URLs, provenance and access dates are in `data/snapshots/2026-10-11.json`, which now holds fifty reports and ninety-five sources.
+
+The colour story broke first. Ice Universe posted on 5 October that the Ultra's base colours are Black, Blue, Light Pink and White and added a special Violet the same day; Android Authority, 9to5Google, SamMobile and Sammy Fans relayed it within a day, all pointing at that single post. Light Pink would take the place of the S26 Ultra's Cobalt Violet, and 9to5Google reads the list as leaving purple out of the Ultra for the first time since 2023 while Android Authority's same-day update keeps a Violet as a special edition, so both readings sit side by side rather than one being picked.
+
+Charging produced the week's narrowest claim. WalleGalaxy's report, read through Android Authority and repeated by Geeky Gadgets on 9 October, has the Ultra holding its 60 W ceiling while sustaining roughly 55 W to 56 W for longer, worth about 2% to 3% in charge time on a larger 5,700 mAh cell. Tech Advisor's 8 October update carries the same figures but credits phonefuturist and Ice Universe, so the archive records the numbers and the disagreement about who produced them.
+
+Price and display arrived together from one @phonefuturist post on 8 October: $899, $1,099, $1,299 and $1,399 for the United States, with global and Korean prices a tier higher at $999, $1,199, $1,399 and $1,499 to $1,549, plus an OLED split that gives the base and Plus an M14+ panel and the Pro and Ultra the M16 panel with Privacy Display. 9to5Google, Sammy Fans, Trusted Reviews and PhoneArena relayed it. The ladder holds the US base price and puts the Ultra below the late-August expectation, which contradicts the 30 September Korean reading of a rise across every tier; both are kept.
+
+The chipset question reversed again on 9 October. Reporting attributed to the Naver blogger Lanzuk says Samsung has no plans for an Exynos Ultra in any market, keeping Snapdragon 8 Elite Gen 6 for Galaxy worldwide in the Ultra while the base, Plus and Pro take the Exynos 2700 across most of Europe, Asia and Africa and Snapdragon covers North America and China. SammyGuru, Sammy Fans, Nokia Power User and Samsung Magazine relayed it, all naming the same account. It sits against the 1 and 2 October prototype and production reports, so it is filed as its own disputed report that contradicts them instead of superseding them: nothing in it disputes the Exynos 2700 order, only which models receive the chip.
+
+Access limitations: no named tipster post was read directly — Ice Universe's colour post, WalleGalaxy's charging claim, phonefuturist's price and display post and Lanzuk's chipset allocation were all read through relays. Android Headlines could not be opened in any tier in this run, failing on its pricing, chipset and vapour-chamber pages, so nothing from Android Headlines is cited and its "No Exynos 2700 for the Galaxy S27 Ultra After All" piece is represented only by the relays that name the same source. Tech Advisor and SamMobile are continuously updated pages, so the dates recorded here come from their own update timestamps rather than an article date. No S27 specification is marked confirmed.
+
 ## Integrity rule
 
 A retrospective collection date is not a claim that the archive observed a report before launch. `firstObservedAt` records when this archive collected the material; `sourceDate` preserves when the source published it. Existing snapshots remain immutable after publication.

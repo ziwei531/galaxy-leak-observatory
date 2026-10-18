@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-10-11",
+	"latest": "2026-10-18",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -39,6 +39,12 @@
 			"path": "data/snapshots/2026-10-11.json",
 			"title": "Light pink for the Ultra, a 55 W plateau and a Snapdragon-only Ultra reading",
 			"sha256": "60ff158920f48e3f4d768c38edcfd89b6b477ab9822c9c0d59db9e7b84a7b2c6"
+		},
+		{
+			"id": "2026-10-18",
+			"path": "data/snapshots/2026-10-18.json",
+			"title": "A thermal ultimatum, a UWB omission and a second price ladder",
+			"sha256": "ecf4a704ea75f79225499075f8fe5a0d4b8572c810bd925293c7870d3032f903"
 		}
 	],
 	"checks": [
@@ -71,6 +77,11 @@
 			"date": "2026-10-11",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across 9to5Google, Android Authority, Sammy Fans, SamMobile, Trusted Reviews, Tech Advisor, SammyGuru, Nokia Power User, Samsung Magazine and Geeky Gadgets, covering reports dated 5 to 9 October 2026. Added three reports and fourteen sources: the Ultra's launch colours with a later special Violet, the reported 55-56 W sustained charging curve behind the same 60 W ceiling, and the 9 October allocation report saying the Ultra stays Snapdragon-only worldwide. Extended seven earlier claims, including the October price and display leak, the M14+ refinement, the Exynos allocation reversal and the Privacy Display tier tie. Access limits: every named tipster post was read only through secondary coverage, and Android Headlines pages returned as browser failures, so its pricing, chipset and vapour-chamber pieces are not cited. No S27 specification is marked confirmed."
+		},
+		{
+			"date": "2026-10-18",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family across Seoul Economic Daily, 9to5Google, Android Authority, SamMobile, GSMArena, Gizmochina, Notebookcheck, SammyGuru, Sammy Fans and PhoneArena, covering reports dated 9-17 October 2026. Added thermal-test and Qualcomm-denial reporting, MIIT UWB tiering, selfie-camera tiers, DC dimming, Privacy Display v2, bezel and camera-bump measurements and a second October price ladder; extended the Exynos and camera-bar claims. Android Headlines could not be read in any tier; every named tipster post was read through a relay; outlets disagree about the S26 Ultra bezel baseline."
 		}
 	]
 }

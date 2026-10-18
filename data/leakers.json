@@ -24,7 +24,7 @@
 			"handleUrl": "https://x.com/UniverseIce",
 			"signal": "high",
 			"focus": "Samsung specifications, cameras and displays",
-			"note": "Frequently attributed across the S22, S23 Ultra and S27 records for camera, display, battery and chipset claims. In August 2026 the account posted a camera-plateau sketch and case images for the S27 Pro and Ultra that conflict with the OnLeaks CAD camera bar; the archive preserves both and treats neither as confirmed. On 14 September 2026 it rejected the reported 4x 1/1.9-inch telephoto as false and said the Ultra keeps its 5x 1/2.52-inch module, while leaving the previously asserted removal of the 3x shooter unaddressed. On 24 September 2026 the account posted that the Galaxy S27 Ultra will pick up Xiaomi's split-screen privacy behaviour, protecting one app in a two-app view while the other stays visible; every readable account of that claim in this archive traces back to this single post, so it is recorded as one report rather than as corroboration. Individual claims still need separate verification. On 29 September 2026 the account posted that the Ultra drops its 10MP 3x telephoto and keeps the 5x module alone, that the 200MP main camera moves to an ISOCELL HP6 and that colour and highlight handling change; the archive records those as one post relayed widely, not as independent confirmation. On 30 September it gave 218 g and 7.9 mm for the Ultra and shared a third-party screen-protector image, and it separately disputed OnLeaks' updated camera-layout render, saying the telephoto sits at the bottom. On 5 October 2026 the account posted that the Galaxy S27 Ultra's base colours are Black, Blue, Light Pink and White and added a special Violet later the same day; Android Authority, 9to5Google, SamMobile and Sammy Fans relayed the post within a day, so the archive records one tipster post rather than four witnesses, and no shade, finish or market detail was given.",
+			"note": "Frequently attributed across the S22, S23 Ultra and S27 records for camera, display, battery and chipset claims. In August 2026 the account posted a camera-plateau sketch and case images for the S27 Pro and Ultra that conflict with the OnLeaks CAD camera bar; the archive preserves both and treats neither as confirmed. On 14 September 2026 it rejected the reported 4x 1/1.9-inch telephoto as false and said the Ultra keeps its 5x 1/2.52-inch module, while leaving the previously asserted removal of the 3x shooter unaddressed. On 24 September 2026 the account posted that the Galaxy S27 Ultra will pick up Xiaomi's split-screen privacy behaviour, protecting one app in a two-app view while the other stays visible; every readable account of that claim in this archive traces back to this single post, so it is recorded as one report rather than as corroboration. Individual claims still need separate verification. On 29 September 2026 the account posted that the Ultra drops its 10MP 3x telephoto and keeps the 5x module alone, that the 200MP main camera moves to an ISOCELL HP6 and that colour and highlight handling change; the archive records those as one post relayed widely, not as independent confirmation. On 30 September it gave 218 g and 7.9 mm for the Ultra and shared a third-party screen-protector image, and it separately disputed OnLeaks' updated camera-layout render, saying the telephoto sits at the bottom. On 5 October 2026 the account posted that the Galaxy S27 Ultra's base colours are Black, Blue, Light Pink and White and added a special Violet later the same day; Android Authority, 9to5Google, SamMobile and Sammy Fans relayed the post within a day, so the archive records one tipster post rather than four witnesses, and no shade, finish or market detail was given. On 15 October 2026 the account gave 1.28 mm display bezels and a 4.69 mm camera bump for the Galaxy S27 Ultra; GSMArena read that as thicker than the S26 Ultra's 1.15 mm bezels while SamMobile and Gizmochina read it as slimmer against 1.32 mm, so the archive records the measurements and the disagreement about the baseline, not a direction. On 17 October it posted a video of another S27 Ultra case showing the same horizontal camera bar, and Sammy Fans relayed it; the post was not read.",
 			"references": [
 				{ "model": "S22", "title": "Early S22 family specifications", "url": "https://www.notebookcheck.net/Galaxy-S22-series-New-leak-reveals-display-camera-and-battery-specifications-of-Samsung-s-next-gen-premium-phones.555484.0.html" },
 				{ "model": "S23", "title": "S23 Ultra camera and display reports", "url": "https://www.notebookcheck.net/Samsung-Galaxy-S23-Ultra-Leaker-reports-camera-design-finalisation-and-subtle-ergonomics-change.667199.0.html" },
@@ -38,7 +38,9 @@
 				{ "model": "S27", "title": "S27 Ultra weight and thickness claim", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-thickness-weight-leak-3717357/" },
 				{ "model": "S27", "title": "S27 Ultra screen-protector image", "url": "https://www.sammyfans.com/2026/09/30/galaxy-s27-ultra-screen-protector-design-leak/" },
 				{ "model": "S27", "title": "S27 Ultra base colour list and special Violet", "url": "https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/" },
-				{ "model": "S27", "title": "Relay reading the colour list as leaving out purple", "url": "https://9to5google.com/2026/10/05/galaxy-s27-ultra-colors-leaked/" }
+				{ "model": "S27", "title": "Relay reading the colour list as leaving out purple", "url": "https://9to5google.com/2026/10/05/galaxy-s27-ultra-colors-leaked/" },
+				{ "model": "S27", "title": "S27 Ultra bezel and camera-bump measurements", "url": "https://www.gsmarena.com/tipster_says_galaxy_s27_ultra_will_have_slightly_thicker_bezels_than_s26_ultra-news-75068.php" },
+				{ "model": "S27", "title": "S27 Ultra case video with horizontal camera bar", "url": "https://www.sammyfans.com/2026/10/17/another-samsung-galaxy-s27-ultra-case-leak-reveals-upgraded-camera-design/" }
 			]
 		},
 		{
@@ -126,10 +128,11 @@
 			"handleUrl": "https://x.com/TheGalox_",
 			"signal": "low",
 			"focus": "Early specifications and rumor posts",
-			"note": "The S27 record attributes several early camera, display and chipset claims to this account, but the underlying posts were not independently preserved; it is listed for traceability, not endorsement. In October 2026 Android Headlines named the account among those placing the Ultra's telephoto at the bottom of the camera pill, against the OnLeaks render.",
+			"note": "The S27 record attributes several early camera, display and chipset claims to this account, but the underlying posts were not independently preserved; it is listed for traceability, not endorsement. In October 2026 Android Headlines named the account among those placing the Ultra's telephoto at the bottom of the camera pill, against the OnLeaks render. On 13 October 2026 Sammy Fans attributed a price roadmap to this account — $1,099, $1,199, $1,399 and $1,499 for the S27, S27+, S27 Pro and S27 Ultra — which contradicts the 8 October @phonefuturist ladder; the post itself was not read, and SammyGuru repeated the figures without naming the account.",
 			"references": [
 				{ "model": "S27", "title": "S27 Ultra camera and display claims", "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul" },
-				{ "model": "S27", "title": "Telephoto-position claim", "url": "https://www.androidheadlines.com/2026/10/tipsters-cant-agree-on-where-the-galaxy-s27-ultras-telephoto-camera-sits.html" }
+				{ "model": "S27", "title": "Telephoto-position claim", "url": "https://www.androidheadlines.com/2026/10/tipsters-cant-agree-on-where-the-galaxy-s27-ultras-telephoto-camera-sits.html" },
+				{ "model": "S27", "title": "S27 family price roadmap claim", "url": "https://www.sammyfans.com/2026/10/13/galaxy-s27-ultra-rumored-to-cost-hefty-1499-s27-price-to-hit-1099/" }
 			]
 		},
 		{
@@ -187,12 +190,14 @@
 		},
 		{
 			"name": "Abhishek Yadav",
-			"handle": "tipster account (handle not stated in the reporting)",
-			"signal": "low",
-			"focus": "Regulatory filings and charging specifications",
-			"note": "Relayed the China 3C registry listing behind the reported 25 W and 45 W Galaxy S27 and S27 Plus charging speeds. The firmer evidence is the regulatory listing rather than the relay, and this archive did not inspect the registry entry itself.",
+			"handle": "@yabhishekhd",
+			"handleUrl": "https://x.com/yabhishekhd",
+			"signal": "medium",
+			"focus": "Regulatory filings, UWB and charging specifications",
+			"note": "Relayed the China 3C registry listing behind the reported 25 W and 45 W Galaxy S27 and S27 Plus charging speeds. The firmer evidence is the regulatory listing rather than the relay, and this archive did not inspect the registry entry itself. On 16 October 2026 Android Authority, SamMobile and GSMArena attributed to this account the reading of Chinese MIIT entries in which only the Galaxy S27 Pro and S27 Ultra list ultra-wideband support, leaving the base and Plus without it. That is a second regulatory-filing claim from the same account, which is why the archive moves it from low to medium; the entries were still read only through relays, the model-number mapping is the tipster's, and a missing feature in a filing is weaker than a listed one.",
 			"references": [
-				{ "model": "S27", "title": "China 3C charging listing relay", "url": "https://www.androidauthority.com/galaxy-s27-plus-charging-speed-25w-3705976/" }
+				{ "model": "S27", "title": "China 3C charging listing relay", "url": "https://www.androidauthority.com/galaxy-s27-plus-charging-speed-25w-3705976/" },
+				{ "model": "S27", "title": "MIIT UWB listing relay", "url": "https://www.androidauthority.com/samsung-galaxy-s27-plus-uwb-downgrade-3724300/" }
 			]
 		},
 		{
@@ -222,14 +227,16 @@
 			"name": "WalleGalaxy",
 			"handle": "@WalleGalaxy",
 			"signal": "low",
-			"focus": "Camera software and image processing",
-			"note": "In mid-September 2026 the account claimed the Galaxy S27 Ultra gains updated Samsung Log and APV support for wider dynamic range and a reworked photo pipeline tuned for warmer, more natural colour. Android Authority relayed the claims while stating that the account is not an established source, and this archive agrees: one appearance, no evidence published, listed for traceability only. On 21 September 2026 SammyGuru attributed the family's ten memory and storage configurations to this account, including a possible 128GB tier outside most markets; that relay carries no evidence beyond the account's own claim. On 5 October 2026 Android Authority credited the account with the claim that the Galaxy S27 Ultra keeps its 60 W charging ceiling while sustaining roughly 55-56 W for longer, worth about 2% to 3% in charge time; the post was not read, and Tech Advisor's 8 October round-up carries the same figures under a source list naming phonefuturist and Ice Universe instead.",
+			"focus": "Camera software, charging and display claims",
+			"note": "In mid-September 2026 the account claimed the Galaxy S27 Ultra gains updated Samsung Log and APV support for wider dynamic range and a reworked photo pipeline tuned for warmer, more natural colour. Android Authority relayed the claims while stating that the account is not an established source, and this archive agrees: one appearance, no evidence published, listed for traceability only. On 21 September 2026 SammyGuru attributed the family's ten memory and storage configurations to this account, including a possible 128GB tier outside most markets; that relay carries no evidence beyond the account's own claim. On 5 October 2026 Android Authority credited the account with the claim that the Galaxy S27 Ultra keeps its 60 W charging ceiling while sustaining roughly 55-56 W for longer, worth about 2% to 3% in charge time; the post was not read, and Tech Advisor's 8 October round-up carries the same figures under a source list naming phonefuturist and Ice Universe instead. On 10 October 2026 GSMArena, SammyGuru and PhoneArena relayed a claim attributed to this account that the Galaxy S27 Pro and S27 Ultra will support DC dimming, likely in a hybrid scheme that keeps PWM at low brightness. No panel document or Samsung statement supports it, and the account remains low-signal here: a technical claim is not evidence.",
 			"references": [
 				{ "model": "S27", "title": "Camera processing claims", "url": "https://www.sammyfans.com/2026/09/15/galaxy-s27-ultra-camera-natural-colors-improved-log-video/" },
 				{ "model": "S27", "title": "Cautioned relay of the same claims", "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-upgrades-leak-3712251/" },
 				{ "model": "S27", "title": "S27 family storage configurations", "url": "https://sammyguru.com/samsung-galaxy-s27-series-and-storage-configuration-leak/" },
 				{ "model": "S27", "title": "S27 Ultra charging-curve claim", "url": "https://www.androidauthority.com/galaxy-s27-ultra-fast-charging-optimization-3719282/" },
-				{ "model": "S27", "title": "Relay repeating the 55-56 W figure", "url": "https://www.geeky-gadgets.com/samsung-galaxy-s27-ultra-leaks-20/" }
+				{ "model": "S27", "title": "Relay repeating the 55-56 W figure", "url": "https://www.geeky-gadgets.com/samsung-galaxy-s27-ultra-leaks-20/" },
+				{ "model": "S27", "title": "DC dimming claim for the Pro and Ultra", "url": "https://www.gsmarena.com/samsung_galaxy_s27_might_finally_introduce_dc_dimming-news-74994.php" },
+				{ "model": "S27", "title": "Display relay naming the DC dimming claim", "url": "https://sammyguru.com/galaxy-s27-pro-ultra-display-upgrades-leak/" }
 			]
 		},
 		{
@@ -241,6 +248,17 @@
 			"note": "On 24 September 2026 posted the Galaxy S27 family's RAM and storage configurations and credited Lanzuk for them. The account relays rather than originates, so its posts add reach rather than independent confirmation, and this archive read the post only through Gagadget's reproduction. One appearance is not a reliability record.",
 			"references": [
 				{ "model": "S27", "title": "Relayed S27 RAM and storage configurations", "url": "https://gagadget.com/en/727256-samsung-galaxy-s27-leak-12gb-ram-across-the-board-new-pro-tier-but-lpddr6-is-not-guaranteed/" }
+			]
+		},
+		{
+			"name": "Sawyergalox",
+			"handle": "@Sawyergalox",
+			"handleUrl": "https://x.com/Sawyergalox",
+			"signal": "low",
+			"focus": "Display privacy features",
+			"note": "On 12 October 2026 SammyGuru attributed to this account a second-generation Privacy Display for the Galaxy S27 Ultra, and possibly the Pro, with better viewing angles, resolution and clarity while the filter is active. The post was not read and no document or specification was cited; the account appears once in this archive and is listed for traceability only. It is not the same account as Anthony (@TheGalox_).",
+			"references": [
+				{ "model": "S27", "title": "Privacy Display v2 claim", "url": "https://sammyguru.com/galaxy-s27-pro-ultra-display-upgrades-leak/" }
 			]
 		}
 	]

@@ -80,6 +80,24 @@ The chipset question reversed again on 9 October. Reporting attributed to the Na
 
 Access limitations: no named tipster post was read directly — Ice Universe's colour post, WalleGalaxy's charging claim, phonefuturist's price and display post and Lanzuk's chipset allocation were all read through relays. Android Headlines could not be opened in any tier in this run, failing on its pricing, chipset and vapour-chamber pages, so nothing from Android Headlines is cited and its "No Exynos 2700 for the Galaxy S27 Ultra After All" piece is represented only by the relays that name the same source. Tech Advisor and SamMobile are continuously updated pages, so the dates recorded here come from their own update timestamps rather than an article date. No S27 specification is marked confirmed.
 
+## Galaxy S27 Family review — 18 October 2026
+
+Twenty-four newly collected readable sources and their dates, canonical URLs, provenance and access dates are in `data/snapshots/2026-10-18.json`, which now holds fifty-seven reports and one hundred and nineteen sources.
+
+Silicon dominated the week. Seoul Economic Daily reported on 16 October that Samsung's MX division found the Snapdragon 8 Elite Extreme Gen 6 exceeding thermal thresholds and throttling in Galaxy S27 Ultra verification, asked Qualcomm to fix it by mid-October, and would consider the Exynos 2700 if it did not. 9to5Google, Android Authority and SamMobile relayed it; Qualcomm called the account inaccurate. The archive records the report and the denial as one disputed claim rather than treating the company statement as a refutation of the tests, and notes that Gizmochina found the public denial naming the standard 8 Elite Gen 6 rather than the Extreme variant at issue. A 17 October relay says the Ultra decision remains open, against the 9 October reading that Samsung had no Exynos Ultra plans.
+
+The regulatory thread produced the week's clearest hardware downgrade. Chinese MIIT entries read through Abhishek Yadav list UWB on the Galaxy S27 Pro and S27 Ultra but not on the base or Plus; Android Authority, SamMobile and GSMArena relayed it on 16 October. The base model has never carried UWB, so the Plus is the real change, and SamMobile notes the filings may be preliminary. The leaker index moves Yadav from low to medium on the strength of a second regulatory-filing claim, with the relay and mapping limits stated in the entry.
+
+Camera tiering sharpened on 14 October. GalaxyClub reported, without citing a source, that the S27 and S27+ keep the 12MP autofocus selfie camera while the Pro and Ultra get a new 16MP sensor that may be square. This narrows the archive's July 16MP claim rather than contradicting it, since that claim concerned the Ultra.
+
+Two display claims stayed single-source: @WalleGalaxy's DC dimming for the Pro and Ultra, expected in a hybrid scheme that keeps PWM at low brightness, and @Sawyergalox's second-generation Privacy Display with better angles and clarity. PhoneArena's 10 October piece supplies context on the S26 Ultra's Privacy Display complaints but no independent confirmation of the fix.
+
+Design measurements arrived with a contradiction inside them. Ice Universe gave 1.28 mm bezels and a 4.69 mm camera bump on 15 October. GSMArena compared them with a 1.15 mm S26 Ultra bezel and read the change as thicker; SamMobile and Gizmochina used 1.32 mm and read it as slimmer. Sammy Fans attributed a separate set — 1.21 mm and 4.64 mm — to OnLeaks. The archive therefore records the figures and the conflicting baselines rather than a direction.
+
+A 13 October price roadmap attributed to Anthony (@TheGalox_) put the four models at $1,099, $1,199, $1,399 and $1,499, against the 8 October @phonefuturist ladder of $899 to $1,399. Sammy Fans' prose once gives the Pro as $1,199 while its own list says $1,399. Both ladders are kept as disputed expectations; the shared direction is higher prices on memory costs.
+
+Access limitations: Android Headlines could not be opened in any tier, including its S27, S27+ and S27 Pro preview pages, so nothing from Android Headlines is cited and its 16 October updates are represented only through relays. Every named tipster post — Ice Universe's measurements and case video, WalleGalaxy's DC dimming, SawyerGalox's Privacy Display v2, Abhishek Yadav's MIIT reading and TheGalox's price list — was read through secondary coverage. Megamobilecontent's DC dimming page and tbreak's case article were blocked or refused and are not cited. No S27 specification is marked confirmed.
+
 ## Integrity rule
 
 A retrospective collection date is not a claim that the archive observed a report before launch. `firstObservedAt` records when this archive collected the material; `sourceDate` preserves when the source published it. Existing snapshots remain immutable after publication.

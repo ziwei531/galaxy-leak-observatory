@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-10-18",
+	"latest": "2026-10-25",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -45,6 +45,12 @@
 			"path": "data/snapshots/2026-10-18.json",
 			"title": "A thermal ultimatum, a UWB omission and a second price ladder",
 			"sha256": "ecf4a704ea75f79225499075f8fe5a0d4b8572c810bd925293c7870d3032f903"
+		},
+		{
+			"id": "2026-10-25",
+			"path": "data/snapshots/2026-10-25.json",
+			"title": "8 GB comes back, a protector round drops the Pro and TUV fixes the cells",
+			"sha256": "ca35400372fb39341284186d73d03ce5f030c3e725ada6b91989f23853076a37"
 		}
 	],
 	"checks": [
@@ -82,6 +88,11 @@
 			"date": "2026-10-18",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family across Seoul Economic Daily, 9to5Google, Android Authority, SamMobile, GSMArena, Gizmochina, Notebookcheck, SammyGuru, Sammy Fans and PhoneArena, covering reports dated 9-17 October 2026. Added thermal-test and Qualcomm-denial reporting, MIIT UWB tiering, selfie-camera tiers, DC dimming, Privacy Display v2, bezel and camera-bump measurements and a second October price ladder; extended the Exynos and camera-bar claims. Android Headlines could not be read in any tier; every named tipster post was read through a relay; outlets disagree about the S26 Ultra bezel baseline."
+		},
+		{
+			"date": "2026-10-25",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across Sammy Fans, SamMobile, GSMArena, Android Authority, NokiaPowerUser, BigGo Finance, Notebookcheck relays and the Samsung Newsroom front page, covering reports dated 17-24 October 2026. Added six reports and eleven sources: the two-design four-case split, Lanzuk's finalised January schedule, the return of an 8GB base tier, a three-model protector round with no Pro, the Safety Korea cell listings and the TUV Rheinland capacities. Extended six earlier claims. Access limits: Forbes returned an unsolvable captcha; every named tipster post was read only through relays; Samsung has announced nothing."
 		}
 	]
 }

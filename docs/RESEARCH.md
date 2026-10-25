@@ -98,6 +98,20 @@ A 13 October price roadmap attributed to Anthony (@TheGalox_) put the four model
 
 Access limitations: Android Headlines could not be opened in any tier, including its S27, S27+ and S27 Pro preview pages, so nothing from Android Headlines is cited and its 16 October updates are represented only through relays. Every named tipster post — Ice Universe's measurements and case video, WalleGalaxy's DC dimming, SawyerGalox's Privacy Display v2, Abhishek Yadav's MIIT reading and TheGalox's price list — was read through secondary coverage. Megamobilecontent's DC dimming page and tbreak's case article were blocked or refused and are not cited. No S27 specification is marked confirmed.
 
+## Galaxy S27 Family review — 25 October 2026
+
+Eleven newly collected readable sources and their dates, canonical URLs, provenance and access dates are in `data/snapshots/2026-10-25.json`, which now holds sixty-three reports and one hundred and thirty sources.
+
+The week's story was subtraction. On 20 October Sammy Fans and NokiaPowerUser both reported that the Galaxy S27 and S27+ fall back to an 8 GB tier, with the Pro at 12 GB and the Ultra at 12 GB or 16 GB, blaming DRAM prices. That contradicts the 21 September reading of twelve gigabytes across the family, and since neither piece names an account, a document or a supply-chain outlet, the archive keeps both ladders and files the new one as disputed rather than as a replacement. Lanzuk's 19 October post supplies the same pressure from the other side: the launch schedule and major components are finalised, but whether the Pro and Ultra get LPDDR6 and UFS 5.0 is still open on cost.
+
+The same day produced a second subtraction. SammyGuru published screen protectors for only the S27, S27+ and S27 Ultra, at 6.27, 6.66 and 6.89 inches, with no S27 Pro cut. Sammy Fans and Android Authority both noted the gap and both cautioned that an absent protector is not a cancelled model; BigGo Finance went further on 21 October and read it as a possible three-model lineup, citing the S26 Pro and S26 Edge as precedents. Because the archive's late-September protector reading put four fronts close to the S26, the two rounds genuinely disagree, and the newer one is recorded as a contradiction.
+
+Design moved in the opposite direction. Ice Universe's 18 October side-by-side case photograph, relayed by Sammy Fans and GSMArena, shows the S27 and S27+ keeping vertical camera cutouts while the Pro and Ultra take rectangular ones spanning nearly the full width. That is the best artifact yet for the split, and it favours the horizontal-bar reading over the disputed plateau reading, though it is still one account's photo of third-party tooling.
+
+Battery gained its firmest evidence in months, in two steps. Safety Korea listed the two cell units, EB-BS958DBY and EB-BS957CBY, made by Zhuhai CosMX Power Jinwan, without readable capacities on 22 October. Two days later TÜV Rheinland listed the same model numbers with figures: 5,534 mAh rated and 5,700 mAh typical for the Ultra, 5,087 mAh rated and 5,240 mAh typical for the Pro. The rated numbers match the September 3C filings, which is what makes the typical pair worth keeping, and the Pro's 5,240 mAh sits 40 mAh above the 5,200 mAh earlier coverage assumed. Rated and typical stay separate units.
+
+Access limitations: Forbes' 20 October piece on the case designs and the launch date returned an unsolvable captcha and is not cited. Every named tipster post — Ice Universe's 18 October image, Lanzuk's 19 October schedule — was read only through relays, and the TÜV and Safety Korea entries were read through Sammy Fans rather than at the registries. The Samsung Global Newsroom front page carried no S27 item through 23 October, so nothing here is official and no S27 specification is marked confirmed.
+
 ## Integrity rule
 
 A retrospective collection date is not a claim that the archive observed a report before launch. `firstObservedAt` records when this archive collected the material; `sourceDate` preserves when the source published it. Existing snapshots remain immutable after publication.

@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-10-25",
+	"latest": "2026-11-01",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -51,6 +51,12 @@
 			"path": "data/snapshots/2026-10-25.json",
 			"title": "8 GB comes back, a protector round drops the Pro and TUV fixes the cells",
 			"sha256": "ca35400372fb39341284186d73d03ce5f030c3e725ada6b91989f23853076a37"
+		},
+		{
+			"id": "2026-11-01",
+			"path": "data/snapshots/2026-11-01.json",
+			"title": "The base S27 is certified at 25 W, Europe sees no Exynos Ultra and cases go on sale",
+			"sha256": "6d67440676e0fb129c6ffe8a8aea2b809afcae65aa14986460005f76ced2351a"
 		}
 	],
 	"checks": [
@@ -93,6 +99,11 @@
 			"date": "2026-10-25",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across Sammy Fans, SamMobile, GSMArena, Android Authority, NokiaPowerUser, BigGo Finance, Notebookcheck relays and the Samsung Newsroom front page, covering reports dated 17-24 October 2026. Added six reports and eleven sources: the two-design four-case split, Lanzuk's finalised January schedule, the return of an 8GB base tier, a three-model protector round with no Pro, the Safety Korea cell listings and the TUV Rheinland capacities. Extended six earlier claims. Access limits: Forbes returned an unsolvable captcha; every named tipster post was read only through relays; Samsung has announced nothing."
+		},
+		{
+			"date": "2026-11-01",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across GSMArena, SammyGuru, Sammy Fans, Notebookcheck, Gizmochina, Android Authority and 9to5Google, covering reports dated 20 to 30 October 2026. Added three reports and nine sources: the UL Solutions (Demko) certificates for ten SM-S952 variants at 25 W, Ice Universe's 30 October reading that Europe still shows no Exynos Ultra with a supply-based explanation, and Amazon case listings for the Pro and Ultra. Extended five earlier claims. Access limits: every named tipster post was read through relays, the UL database was read through four outlets, and Samsung's 29 October earnings call was read only through 9to5Google's quotation. No S27 specification is marked confirmed."
 		}
 	]
 }

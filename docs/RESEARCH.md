@@ -112,6 +112,20 @@ Battery gained its firmest evidence in months, in two steps. Safety Korea listed
 
 Access limitations: Forbes' 20 October piece on the case designs and the launch date returned an unsolvable captcha and is not cited. Every named tipster post — Ice Universe's 18 October image, Lanzuk's 19 October schedule — was read only through relays, and the TÜV and Safety Korea entries were read through Sammy Fans rather than at the registries. The Samsung Global Newsroom front page carried no S27 item through 23 October, so nothing here is official and no S27 specification is marked confirmed.
 
+## Galaxy S27 Family review — 1 November 2026
+
+Nine newly collected readable sources and their dates, canonical URLs, provenance and access dates are in `data/snapshots/2026-11-01.json`, which now holds sixty-six reports and one hundred and thirty-nine sources.
+
+The week's only new specification-grade evidence was regulatory. Two UL Solutions (Demko) certificates, DK-187425-UL and DK-187435-UL, were issued in Denmark on 23 October and reported on 29 and 30 October by GSMArena, Sammy Fans, Notebookcheck and Gizmochina. They rate ten SM-S952 variants at 9V DC and 2.77A — 24.93 W, sold as 25 W — across Europe, the US, Canada, South Korea, Japan and Greater China. That agrees with China's September 3C entry for SM-S9520, which is the first time a second regulator has recorded the same base-model profile, and it leaves the family ladder at 25, 45 and 60 W. The certificates say nothing about wireless charging, and the Pro and Ultra figures still rest on the September 3C filings.
+
+The chipset saga turned again on 30 October. Ice Universe said there are still no signs of an Exynos 2700 in a European Galaxy S27 Ultra and called South Korea uncertain; GSMArena reported it as the latest instalment, and SammyGuru read it as a likely Snapdragon-only Ultra worldwide because Europe normally receives Exynos first. SammyGuru attributed the reason to Exynos 2700 supply — SF2P yields and component procurement costs against the Ultra's share of flagship sales — rather than performance, which is a different mechanism from the 16 October overheating report. The archive keeps both as disputed and neither as an allocation: a tipster seeing no European Exynos unit is an argument from absence, and the same question has now reversed several times on attributions this archive has never read at source.
+
+Retail produced one weak signal. On 27 October Android Authority found Galaxy S27 Pro cases on Amazon US at $10.98 and $13.85 with shipments between 10 and 23 November, and relayed SammyGuru's Amazon UK listings for Ultra cases from £8.98. Accessory listings show tooling expectations, not dimensions, and the October protector round that omitted the Pro is the precedent, so the entry is low confidence.
+
+Samsung itself said almost nothing. On the 29 October earnings call a mobile-division vice president referred to the "next-generation S series" and to enhancing the "distinct character of each model"; 9to5Google read that as a hint at the Pro model and Ultra design changes, which is the outlet's inference. No model name, date or price was given, so the archive records an official reference to a 2027 family and nothing about timing.
+
+Access limitations: no named tipster post was read directly — Ice Universe's 30 October statement arrived through GSMArena, SammyGuru and Sammy Fans, all pointing at the same post. The UL database was not read at source; the two certificate numbers come from Notebookcheck, which credits The Tech Outlook as the discoverer, and the same credit appears in Sammy Fans. SammyGuru's 20 October supply piece falls inside the previous review week and is cited here for the first time, which the source entry states. Samsung's earnings call was read only through 9to5Google's quotation. No S27 specification is marked confirmed.
+
 ## Integrity rule
 
 A retrospective collection date is not a claim that the archive observed a report before launch. `firstObservedAt` records when this archive collected the material; `sourceDate` preserves when the source published it. Existing snapshots remain immutable after publication.

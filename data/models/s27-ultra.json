@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-11-01",
+	"latest": "2026-11-08",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -57,6 +57,12 @@
 			"path": "data/snapshots/2026-11-01.json",
 			"title": "The base S27 is certified at 25 W, Europe sees no Exynos Ultra and cases go on sale",
 			"sha256": "6d67440676e0fb129c6ffe8a8aea2b809afcae65aa14986460005f76ced2351a"
+		},
+		{
+			"id": "2026-11-08",
+			"path": "data/snapshots/2026-11-08.json",
+			"title": "A three-chip register, 700,000 Pro panels and a dummy unit",
+			"sha256": "cd29b50add5ddffe013f479358117f933f6fe281b8d35b3c1f37cb6c3f421ee8"
 		}
 	],
 	"checks": [
@@ -104,6 +110,11 @@
 			"date": "2026-11-01",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across GSMArena, SammyGuru, Sammy Fans, Notebookcheck, Gizmochina, Android Authority and 9to5Google, covering reports dated 20 to 30 October 2026. Added three reports and nine sources: the UL Solutions (Demko) certificates for ten SM-S952 variants at 25 W, Ice Universe's 30 October reading that Europe still shows no Exynos Ultra with a supply-based explanation, and Amazon case listings for the Pro and Ultra. Extended five earlier claims. Access limits: every named tipster post was read through relays, the UL database was read through four outlets, and Samsung's 29 October earnings call was read only through 9to5Google's quotation. No S27 specification is marked confirmed."
+		},
+		{
+			"date": "2026-11-08",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family across Notebookcheck, Android Authority, The Korea Herald, UBI Research, SamMobile, 9to5Google, GSMArena and Sammy Fans, covering reports dated 27 October to 6 November 2026. Five new reports: the NBD chipset register, UBI Research's Pro panel estimate, the SamMobile Privacy Display upgrade, the Android Headlines dummy unit and India's BIS clearance. Extended charging, price, privacy-tier and regional-Exynos claims. Access limits: NBD and BIS read through reports, PhoneArena behind a wall, Android Headlines unreadable."
 		}
 	]
 }

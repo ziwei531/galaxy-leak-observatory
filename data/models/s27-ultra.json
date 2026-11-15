@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-11-08",
+	"latest": "2026-11-15",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -63,6 +63,12 @@
 			"path": "data/snapshots/2026-11-08.json",
 			"title": "A three-chip register, 700,000 Pro panels and a dummy unit",
 			"sha256": "cd29b50add5ddffe013f479358117f933f6fe281b8d35b3c1f37cb6c3f421ee8"
+		},
+		{
+			"id": "2026-11-15",
+			"path": "data/snapshots/2026-11-15.json",
+			"title": "A sensor sheet for four phones, a disputed dummy and five wallpaper shades",
+			"sha256": "7a1b88524993da085ef0ca9ad9d367f996e6695a09dafc2ff090f7c0d7af12f0"
 		}
 	],
 	"checks": [
@@ -115,6 +121,11 @@
 			"date": "2026-11-08",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family across Notebookcheck, Android Authority, The Korea Herald, UBI Research, SamMobile, 9to5Google, GSMArena and Sammy Fans, covering reports dated 27 October to 6 November 2026. Five new reports: the NBD chipset register, UBI Research's Pro panel estimate, the SamMobile Privacy Display upgrade, the Android Headlines dummy unit and India's BIS clearance. Extended charging, price, privacy-tier and regional-Exynos claims. Access limits: NBD and BIS read through reports, PhoneArena behind a wall, Android Headlines unreadable."
+		},
+		{
+			"date": "2026-11-15",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across SammyGuru, GSMArena, 9to5Google, Digital Trends, Gizmochina, Android Authority and Smartprix, covering reports dated 9 to 12 November 2026. Four new reports and eleven sources: SammyGuru's four-model camera sensor list with the Pro on a 10MP 3x and the Ultra on a single 50MP 5x, Sonny Dickson's dummy-unit photo with Ice Universe's objection, five stock wallpapers pointing to navy, white, light blue, pink and burgundy, and the S27+ BIS clearances under two company registrations. Extended five earlier claims, including the sensor list as support for the Ultra's 3x removal, the HP6, the selfie tiers and the India clearance. Access limits: every named tipster post was read only through relays, the sensor list, dummy photo and wallpapers each trace to a single originating post, and no S27 specification is marked confirmed."
 		}
 	]
 }

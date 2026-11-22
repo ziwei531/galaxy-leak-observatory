@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"model": "s27-ultra",
-	"latest": "2026-11-15",
+	"latest": "2026-11-22",
 	"timeline": "data/early-timeline.json",
 	"snapshots": [
 		{
@@ -69,6 +69,12 @@
 			"path": "data/snapshots/2026-11-15.json",
 			"title": "A sensor sheet for four phones, a disputed dummy and five wallpaper shades",
 			"sha256": "7a1b88524993da085ef0ca9ad9d367f996e6695a09dafc2ff090f7c0d7af12f0"
+		},
+		{
+			"id": "2026-11-22",
+			"path": "data/snapshots/2026-11-22.json",
+			"title": "A final camera island, a four-model protector set and Exynos on Geekbench",
+			"sha256": "4f67f802a03c70f72389b2eaa38c6d7cf09f97740d47311336e313457aa3212f"
 		}
 	],
 	"checks": [
@@ -126,6 +132,11 @@
 			"date": "2026-11-15",
 			"outcome": "updated",
 			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across SammyGuru, GSMArena, 9to5Google, Digital Trends, Gizmochina, Android Authority and Smartprix, covering reports dated 9 to 12 November 2026. Four new reports and eleven sources: SammyGuru's four-model camera sensor list with the Pro on a 10MP 3x and the Ultra on a single 50MP 5x, Sonny Dickson's dummy-unit photo with Ice Universe's objection, five stock wallpapers pointing to navy, white, light blue, pink and burgundy, and the S27+ BIS clearances under two company registrations. Extended five earlier claims, including the sensor list as support for the Ultra's 3x removal, the HP6, the selfie tiers and the India clearance. Access limits: every named tipster post was read only through relays, the sensor list, dummy photo and wallpapers each trace to a single originating post, and no S27 specification is marked confirmed."
+		},
+		{
+			"date": "2026-11-22",
+			"outcome": "updated",
+			"notes": "Reviewed the whole S27 family rather than the Ultra alone, across Gizmochina, GSMArena, Android Authority, SammyGuru, Sammy Fans, Talk Android, SamMobile and 9to5Google, covering reports dated 6 to 20 November 2026. Added six reports and fourteen sources: Ice Universe's 15 November final camera island, the four-model lens-protector round, the Exynos 2700 side-by-side packaging report, the 20 November Geekbench listing for SM-S957B, the ETNews production allocation and the Korea Snapdragon reading. No earlier claim was rewritten. Access limits: every named tipster post was read only through relays, the Geekbench database and the ZDNet Korea report were not opened, and Samsung's Newsroom carried no S27 product statement. No S27 specification is marked confirmed."
 		}
 	]
 }
